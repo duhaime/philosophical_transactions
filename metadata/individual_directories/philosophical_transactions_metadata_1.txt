@@ -1,0 +1,920 @@
+file_id	year	language	title	given_name	surname
+10.2307_100912.xml	1672 	eng 	Front Matter 		
+10.2307_100913.xml	1672 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_100914.xml	1672 	eng 	A Preface to the Eighth Year 		
+10.2307_100915.xml	1672 	eng 	An Accompt of a New Catadioptrical Telescope Invented by Mr. Newton, Fellow of the R. Society, and Professor of the Mathematiques in the University of Cambridge 		
+10.2307_100916.xml	1672 	lat 	Epitome Binae Methodi Tangentium Doctoris Johannis Wallisii Geom. Prof. Saviliani Oxoniae; Alias Fusius & Explicatius Ab Ipso Traditae, Hic Vero Ob Angustiam Loci Compendifactae: In Quarum Schematismis Si Forsan Literae Quaedam Redundaverint, Illae Ad Ea Pertinere Censendae Sunt, Quae in Ampliori Ejusdem Scripto Continentur, Hic Vero Dicta de Causa Omittantur 	Johannis Johannes 	Wallisii Wallis 
+10.2307_100917.xml	1672 	eng 	Extract of a Letter of Monsieur Hevelius from Dantzick Written to the Publisher in Latin, March 9. (st. Nov.) 1672; Giving Some Accompt of a New Comet, Lately Seen in That Country: Englished as Followeth 	Monsieur 	Hevelius 
+10.2307_100918.xml	1672 	eng 	An Account of What Hath Been of Late Observed by Dr. Kerkringius Concerning Eggs to be Found in All Sorts of Females 		
+10.2307_100919.xml	1672 	eng 	An Accompt of Some Books 	Rob Nathan D. Thomas Caroli 	Morison Hodges Sherley Claromontii 
+10.2307_100920.xml	1672 	eng 	Errata 		
+10.2307_100921.xml	1672 	eng 	Mr. Newton's Letter to the Publisher of March 26. 1672. Containing Some More Suggestions about His New Telescope, and a Table of Apertures and Charges for the Several Lengths of That Instrument 		
+10.2307_100922.xml	1672 	eng 	An Extract of Another Letter of the Same to the Publisher, Dated March 30. 1672. by Way of Answer to Some Objection, Made by an Ingenious French Philosopher to the New Reflecting Telescope 		
+10.2307_100923.xml	1672 	lat 	Observationes Jovis ad duas Fixas Transeuntis, Derbia Anglorum Habitae Mensibus Febr. & Martii A. 1671/72 St. Veteri a Joh. Flamstead 	Joh 	Flamstead 
+10.2307_100924.xml	1672 	eng 	A Relation of the Return of a Great Permanent Spot in the Planet Jupiter, Observed by Signor Cassini, One of the Royal Parisian Academy of the Sciences 	Signor 	Cassini 
+10.2307_100925.xml	1672 	eng 	Observations of a New Comet, Made at Paris in the Royal Observatory by Signor Cassini 	Signor 	Cassini 
+10.2307_100926.xml	1672 	eng 	An Account of Some Books 	Alexan Regneri 	Marchetti de Graaf 
+10.2307_100927.xml	1672 	eng 	Advertisement 		
+10.2307_100928.xml	1672 	eng 	Errata 		
+10.2307_100929.xml	1672 	eng 	Mr. Isaac Newton's Considerations upon Part of a Letter of Monsuur de Berce Printed in the Eight French Memoire, Concerning the Cata-Drioptrical Telescope, Pretended to be Improv'd and Refined by M. Cassegrain 	Isaac M. 	Newton Cassegrain 
+10.2307_100930.xml	1672 	eng 	Some Experiments Propos'd in Relation to Mr. Newtons Theory of Light, Printed in Numb. 80; Together with the Observations Made Thereupon by the Author of That Theory; Communicated in a Letter of His from Cambridge, April 13. 1672 		
+10.2307_100931.xml	1672 	eng 	An Account of a Stone Cut Out from under the Tongue of a Man; Lately Sent in a Letter of Mr. Lifters to His Grace the Lord Arch-Bishop of York 		
+10.2307_100932.xml	1672 	eng 	An Extract of a Letter of the Same Mr. Lister, Written from York April 12. 1672. Concerning Animated Horse-Hairs; Rectifying a Vulgar Error 		
+10.2307_100933.xml	1672 	eng 	An Extract of a Letter, Written March 5. 1672 by Dr. Thomas Cornelio, a Neapolitan Philosopher and Physician, to John Dodington Esquire, His Majesties Resident at Venice; Concerning Some Observations Made of Persons Pretending to be Stung by Tarantula's: Englisb'd Out of the Italian 	Thomas 	Cornelio 
+10.2307_100934.xml	1672 	eng 	An Account of the Aponensian Baths Near Padua; Communicated by the Foremention'd Inquisitive Gentleman, Mr. Dodington, in a Letter Written to the Publisher from Venice March 18. 1672 		
+10.2307_100935.xml	1672 	eng 	Reflections Made by P. Francisco Lana S. F. upon an Observation of Signor M. Antonio Castagna, Super Intendent of Some Mines in Italy, Concerning the Formation of Crystals: English'd Out of the XI. Venetian Giornale de Letterati 	P. Francisco Venetian Giornale 	Lana de Letterati 
+10.2307_100936.xml	1672 	eng 	A Relation of an Inland-Sea, Near Danzick, Yielding at a Certain Season of the Year a Green Substance, Which Causeth Certain Death; Together with an Observation about White Amber: Communicated by Mr. Kirkby, in a Letter Written to the Publisher from Danzick Decemb. 19, 1671 		
+10.2307_100937.xml	1672 	eng 	An Account of Some Books 	Thoma Moyse Paul W. 	Willis Charas Barbette Hughes 
+10.2307_100938.xml	1672 	eng 	Errata 		
+10.2307_100939.xml	1672 	eng 	Some Additions to the Narrative, That Was Publish'd Numb. 58. about the Conjunction of the Ocean and Mediterranean by a Channel in France; In Which Additions the Progress and the Designed Usefulness of That Great Undertaking are More Amply Represented: Out of a French Letter, Written by Monsieur de Froidour to Monsieur Barrillon, and Printed at Tholouse This Very Year 	Monsieur 	de Froidour 
+10.2307_100940.xml	1672 	lat 	A Latin Letter Written to the Publisher April 9. 1672. n. st. by Ignatius Gaston Pardies P. Prof. of the Mathematics in the Parisian Colledge of Clermont; Containing Some Animadversions upon Mr. Isaac Newton, Prof. of the Mathematicks in the University of Cambridge, His Theory of Light, Printed in N degrees. 80 		
+10.2307_100941.xml	1672 	lat 	Mr. Newtons Letter of April 13. 1672. st. v. Written to the Publisher, Being an Answer to the Fore-Going Letter of P. Pardies 	J. 	Newton 
+10.2307_100942.xml	1672 	eng 	Two Observations about Stones Found, the One in the Bladder of a Dogg, the Other Fastned to the Back-Bone of a Horse: Both Mentioned in Two Roman Journals de Letterati 		
+10.2307_100943.xml	1672 	eng 	An Accompt of Some Books 	Robert M. Johannis Richard 	Boyl Swammerdami Sharrock 
+10.2307_100944.xml	1672 	eng 	Errata 		
+10.2307_100945.xml	1672 	lat 	A Serie's of Quere's Propounded by Mr. Isaac Newton, to be Determin'd by Experiments, Positively and Directly Concluding His New Theory of Light and Colours; and Here Recommended to the Industry of the Lovers of Experimental Philosophy, as they Were Generously Imparted to the Publisher in a Letter of the Said Mr. Newtons of July 8.1672 	Isaac 	Newton 
+10.2307_100946.xml	1672 	eng 	Some Annotations of the Learned Dr. Walter Needham upon a Discovery Pretended to Have Been Made by the Famous Monsieur Pecquet of a Communication between the Ductus Thoracicus and the Inferior Vena Cava 	Walter Monsieur 	Needham Pecquet 
+10.2307_100947.xml	1672 	lat 	A Second Letter of P. Pardies, Written to the Publisher from Paris May 21. 1672. to Mr. Newtons Answer, Made to His First Letter, Printed in Numb. 84 	P. 	Pardies 
+10.2307_100948.xml	1672 	lat 	Mr. Newtons Answer to the Foregoing Letter 		
+10.2307_100949.xml	1672 	eng 	An Accompt of Some Books 	George John 	Tonstal Josselin 
+10.2307_100950.xml	1672 	eng 	Errata 		
+10.2307_100951.xml	1672 	eng 	An Extract of a Letter of M. Hugens to the Author of the Journal des Scavans of July 25. 1672. Attempting to Render the Cause of That Odd Phaenomenon of the QuickSilvers Remaining Suspended Far above the Usual Height in the Torricellian Experiments 	M. 	Hugens 
+10.2307_100952.xml	1672 	eng 	An Extract of Mr. John Templers Letter of March 30. 1672. to Dr. Walter Needham Concerning the Structure of the Lungs 	John 	Templer 
+10.2307_100953.xml	1672 	lat 	Some Astronomical Observations in Part Already Made, Partly to be Made 		
+10.2307_100954.xml	1672 	eng 	An Accurate Description of the Lake of Geneva, not Long Since Made by a Person That Had Visited It Divers Times in the Pleasantest Season of the Year; and Communicated to the Publisher by One of His Parisian Correspondents: Glish'd as Followeth 		
+10.2307_100955.xml	1672 	eng 	An Accompt of Some Books 	Gregoire Christiani Francis 	Huret Friderici Drope 
+10.2307_100956.xml	1672 	eng 	Advertisement 		
+10.2307_100957.xml	1672 	eng 	An Extract of a Latin Epistle of Dr. Joel Langelot, Chief Physitian to the Duke of Holstein Now Regent: Wherein is Represented, That by These Three Chymical Operations, Digestion, Fermentation, and Triture, or Grinding, (Hitherto, in the Authors Opinion, Not Sufficiently Regarded) Many Things of Admirable Use May be Performed. English'd by the Publisher 	Joel 	Langelot 
+10.2307_100958.xml	1672 	eng 	An Extract of a Letter of Mr. Lister to the Publisher, Both Enlarging and Correcting His Former Notes about Kermes; And Withal Insinuating His Conjecture of Cochineil's being a Sort of Kermes 		
+10.2307_100959.xml	1672 	eng 	An Extract of a Letter Written to the Publisher by Mr. Thomas Platt, from Florence, August 6. 1672. Concerning Some Experiments, There Made upon Vipers, Since Mons. Charas His Reply to the Letter Written by Signor Francesco Redi to Monsteur Bourdelet and Monsieur Morus 	Thomas 	Platt 
+10.2307_100960.xml	1672 	lat 	Dr. John Wallis His Answer, by Way of Letter to the Publisher, to the Book, Entituled Lux Mathematica, &c. Described in Numb. 86. of These Tracts 	John 	Wallis 
+10.2307_100961.xml	1672 	lat 	Ejusdem Doctoris Wallis II Non-Nulla, De Centro Gravitatis Hyperbolae, Praegreffae Epistolae Subnexa 	Doctoris 	Wallis 
+10.2307_100962.xml	1672 	eng 	An Accompt of Some Books 	Franc Jeremiae Marcelli J. B. Francesco Moyse Roberts 	Glissonio Horroccii Malpighii duHamel Redi Charas Boyle 
+10.2307_100963.xml	1672 	eng 	Errata 		
+10.2307_100964.xml	1672 	eng 	Mr. Isaac Newtons Answer to Some Considerations upon His Doctrine of Light and Colors; Which Doctrine Was Printed in Numb. 80. of These Tracts 	Isaac 	Newton 
+10.2307_100965.xml	1672 	eng 	An Accompt of Two Books 	Ottonis Thomae R. 	de Guericke Burnet Boulter 
+10.2307_100966.xml	1672 	eng 	Errata 		
+10.2307_100967.xml	1672 	eng 	Some Observations about Shining Flesh, Made by the Honourable Robert Boyle; Febr. 15. 1671/72 and by Way of Letter Addressed to the Publisher, and Presented to the R. Society 	Robert 	Boyle 
+10.2307_100968.xml	1672 	eng 	A Description of an Odd Kind of Mushrom, Yeilding a Milky Juice, Much Hotter upon the Tongue Than Pepper, &c. Observed by Mr. Lister, and by Him Communicated to the Publisher, Novemb. 15. 1672 		
+10.2307_100969.xml	1672 	lat 	An Extract of Mr. Flamstead's Letter Written to the Publisher from Derby Novemb. 16. 1672. Concerning the Appulses, by Him Calculated for A. 1673. of the Moon, and the Other Planets to Fixed Stars; Together with an Observation of the Planet Mars, Made by the Same 		
+10.2307_100970.xml	1672 	eng 	An Accompt of Some Books 	M. 	Thevenot 
+10.2307_100971.xml	1672 	eng 	Errata 		
+10.2307_100972.xml	1672 	eng 	A Further Account Concerning the Exislence of Veins in All Kind of Plants; together with a Discovery of the Membranous Substance of those Veins, and of Some Acts in Plants Resembling Those of Sense; As Also of the Agreement of the Venal Jutee in Vegetables with the Blood of Animals, &c. Communicated by Mr. Lister in a Letter of Januar 8. 1672/73 and Exhibited to the R. Society 		
+10.2307_100973.xml	1672 	eng 	The Copy of a Letter from Somersetshire, Concerning a Strange Frost, Which Hath Lately Done Much Hurt about Bristol; Together with Some Useful Hints Suggested upon That Occasion 		
+10.2307_100974.xml	1672 	lat 	An Extract of a Letter from the Excellent Ronatus Franciseus Slufius, Canon of Liege and Counsellor to His Electoral Highness of Collen, Written to the Publisher in Order to be Communicated to the R. Society; Concerning His Short and Easie Method of Drawing Tangents to All Geometrical Curves without Any Labour of Calculation: Here Inserted in the Same Language, in Which It Was Written 	RonatusFranciseus 	Slufius 
+10.2307_100975.xml	1672 	eng 	An Accompt of Some Books 	R. 	Bohun 
+10.2307_100976.xml	1672 	eng 	Advertisement 		
+10.2307_100977.xml	1672 	eng 	Errata 		
+10.2307_100978.xml	1672 	eng 	A New Experiment of the Noble R. Boyle, Concerning an Effect of the Varying Weight of the Atmosphere upon Some Bodies in the Water; The Description Whereof Was Presented A. 1671. to the Perusal of the Right Honourable the Lord Brouncker; As the Experiment It Self Was Since by the Author's Favour Shewn to the Publishen 	R. 	Boyle 
+10.2307_100979.xml	1672 	eng 	An Extract of Letters from Dr. John Wallis to the Publisher, 1672.Sept.26.&c. Concerning the Suspension of Quick Silver Well Purged of Air, Much Higher Than the Ordinary Standard in the Torricellian Experiment 	John 	Wallis 
+10.2307_100980.xml	1672 	eng 	An Account of Two Books 	John Bernhardi 	Ray Vareni 
+10.2307_100981.xml	1672 	eng 	Errata 		
+10.2307_100982.xml	1672 	eng 	Back Matter 		
+10.2307_100983.xml	1669 	eng 	Front Matter 		
+10.2307_100984.xml	1669 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_100985.xml	1669 	eng 	A Preface to This Fifth Year of the Transactions 		
+10.2307_100986.xml	1669 	eng 	The Description of an Instrument Invented Divers Years Ago by Dr. Christopher Wren, for Drawing the Out-Lines of Any Object in Perspective 	Christopher 	Wren 
+10.2307_100987.xml	1669 	eng 	An Observation of Saturne, Made at Paris, the 17th of August, 1668. at Hor. II 1/2 at Night, by M. Hugens and M. Picart; As 'tis Describ'd in the Journal Des Scavans of Febr.II, 1669 	M. M. 	Hugens Picart 
+10.2307_100988.xml	1669 	eng 	An Extract of M. Dela Quintiny's Letter, Written to the Publisher in French Sometime Agoe, Concerning His Way of Ordering Melons; Now Communicated in English for the Satisfaction of Several Curious Melonists in England 	M. 	Dela Quintiny 
+10.2307_100989.xml	1669 	eng 	An Account of Two Books 	Richardo 	Lower 
+10.2307_100990.xml	1669 	eng 	Promiscuous Additions, Made by Dr. Tong, to What Was Communicated by the Same in Numb. 43. and 44. Concerning Vegetation 		
+10.2307_100991.xml	1669 	eng 	Dr. John Beals Instances Promised in Numb. 42. and Intended to Shew the Correspondence of the Pith and Timber, with the Seed of the Plant; And That of the Bark or Sap in the Bark, with the Pulp of the Fruit, or Some Encompassing Coat, or Cod, Containing the Seed 	John 	Beals 
+10.2307_100992.xml	1669 	eng 	Extract of a Letter of M. Dela Quintinie, Giving Some Further Directions and Observations about Melons; Promised in a Manner in the Number Next Fore-Going 	M. 	Dela Quintinie 
+10.2307_100993.xml	1669 	lat 	A Summary Account of the Laws of Motion, Communicated by Mr. Christian Hugens in a Letter to the R. Society, and Since Printed in French in the Iournal Des Scavans of March 18, 1669. st. n. 	Christian 	Hugens 
+10.2307_100994.xml	1669 	eng 	An Account Concerning the Resolution of Equations in Numbers; Imparted Parted by Mr. John Collins 	John 	Collins 
+10.2307_100995.xml	1669 	eng 	An Account of Books 	Roberti 	Morison 
+10.2307_100996.xml	1669 	eng 	Instructions Concerning the Use of Pendulum-Watches, for Finding the Longitude at Sea 		
+10.2307_100997.xml	1669 	eng 	An Extract of a Letter Written by Dr. Edward Brown from Vienna in Austria March 3. 1669. Concerning Two Parhelia's or Mocksuns, Lately Seen in Hungary 	Edward 	Brown 
+10.2307_100998.xml	1669 	eng 	A Relation of the Conferences Held at Paris in the Academy Royal for the Improvement of the Arts of Painting and Sculpture, as 'tis Found in the Iournal Des Scavans 	A. E. H. 	Love 
+10.2307_100999.xml	1669 	eng 	An Account of Some Books 	William 	Holder 
+10.2307_101000.xml	1669 	eng 	Erratum 		
+10.2307_101001.xml	1669 	lat 	Generatio Corporis Cylindroidis Hyperbolici, Elaborandis Lenti bus Hyperbolicis Accommodati, Auth. Christophoro Wren L L D. et Regiorum Aedisiciorum Praefecto, Nec non Soc. Regiae Sodali 	Christophoro 	Wren 
+10.2307_101002.xml	1669 	eng 	Experiments Concerning the Motion of the Sap in Trees, Made This Spring by Mr. Wiliugby, and Mr. Wray, Fellowes of the R. Society: And Communicated to the Publisher of the Inquiries Touching That Subject in Numb. 40 		
+10.2307_101003.xml	1669 	eng 	An Extract of a Letter Lately Written by Dr Edward Browne to the Publisher, Concerning Damps in the Mines of Hungary and Their Effects 	Edward 	Browne 
+10.2307_101004.xml	1669 	eng 	A Chronological Accompt of the Several Incendium's or Fires of Mount Aetna 		
+10.2307_101005.xml	1669 	eng 	An Account Concerning a Woman Having a Double Matrix; As the Publisher Hath Englished It Out of French, Lately Printed at Paris, Where the Body Was Opened 		
+10.2307_101006.xml	1669 	eng 	An Accompt of Some Books 	Johanne Balthezar Iohn 	Wallis Tellez Webb 
+10.2307_101007.xml	1669 	eng 	Erratum 		
+10.2307_101008.xml	1669 	eng 	Observations Concerning the Bath-Springs, Communicated by Mr. Joseph Glanvill, in a Letter to the Publisher Dated June 16. 1669: At the Bath 	Joseph 	Glanvill 
+10.2307_101009.xml	1669 	eng 	Extract of a Letter, Written by Mr. Muraltus of Zurich, to M. Haak, a Fellow of the R. Society, Concerning the Icy and Chrystallin Mountains of Helvetia, Call'd the Gletscher. English'd Out of Latin by the Publisher, as Follows 		
+10.2307_101010.xml	1669 	eng 	Some Observations Concerning Japan, Made by an Ingenious Person, That Hath Many Years Resided in That Country; as they Were Communicated in French by M. I; Whence they are Thus English'd by the Publisher; Who Some Months Agoe Accasion'd This Accompt by Some Queries, Sent to That Traveller 		
+10.2307_101011.xml	1669 	eng 	An Account from Paris Concerning a Great Metallin Burning Concave, and Some of the Most Considerable Effects of It: Communicated by Severall Persons upon the Place, Where Tryals Have Been Made of It 		
+10.2307_101012.xml	1669 	eng 	An Accompt of Some Books 	Marc Johjac Robert 	Malpigii Ferguson Wittie 
+10.2307_101013.xml	1669 	eng 	Errata 		
+10.2307_101014.xml	1669 	eng 	An Invention for Estimating the Weight of Water in Water with Ordinary Ballances and Weights 		
+10.2307_101015.xml	1669 	eng 	An Extract of a Letter Written by Mr. Joshua Childrey to the Publisher, Containing an Accompt of a Passage by Sea to the East-Indies, Communicated to Him by That Ingenious Travailor Mr. Richard Smithson Who Made Two Voyages into Those Parts 	Joshua Richard 	Childrey Smithson 
+10.2307_101016.xml	1669 	eng 	Some Considerations Touching the Variety of Slate, together with a Computation of the Charges in Generall, for Covering Houses Therewith; By Mr. Sam. Coleprefs 	Sam 	Coleprefs 
+10.2307_101017.xml	1669 	eng 	Some Observations Concerning the Odd Turn of Some Shell-Snailes, and the Darting of Spiders, Made by an Ingenious Cantabrigian and by Way of Letter Communicated to Mr. I. Wray, Who Transmitted Them to the Publisher for the R. S. 		
+10.2307_101018.xml	1669 	eng 	An Accompt of Some Books 	P. 	Labbe 
+10.2307_101019.xml	1669 	eng 	An Extract of a Letter Containing the Whole Process, Used in France for Making Sea-Salt by the Sun; Communicated to the Publisher in French, by an Ingenious Dr of Physick of That Nation, Residing Near the Chief Place, Where tis Practised; And Englished as Follows 		
+10.2307_101020.xml	1669 	eng 	An Answer to Some Inquiries Concerning the Eruptions of Mount Aetna, An. 1669. Communicated by Some Inquisitive English Merchants, Now Residing in Sicily 		
+10.2307_101021.xml	1669 	eng 	An Account of Two Books 	Dr 	Witties 
+10.2307_101022.xml	1669 	eng 	Errata 		
+10.2307_101023.xml	1669 	eng 	A Particular Accompt of Divers Minerals, Cast up and Burned by the Late Fire of Mount Aetna; Mentioning the Several Specimina, Expected in Nu nb. 51, p. 1031. from Some Ingenious Marchants of England, Being upon th Place, and Since Come to the Hands of the Publisher, for the Repository of the R. Society 		
+10.2307_101024.xml	1669 	eng 	Some Observations Concerning the Organs of Generation, Made by Dr. Edmund King. a Fellow of the R. Society, and by Dr Regnerus De Grieff, Physitian in Holland; Which Later Occasioned the Publishing of the Former 	Edmund Regnerus 	King de Grieff 
+10.2307_101025.xml	1669 	eng 	An Extract of a Letter Written by the Learned Dr. William Darston, Physitian at Plimouth, to the Right Honorable the Lord Vice-Count Br Uncker as President of the R. Society; Concerning a Very Sudden and Excessive Swelling of a Womans Breasts 	William William 	Darston Durston 
+10.2307_101026.xml	1669 	eng 	Some Reflexions Made on the Enlarged Accompt of Dr Witties Answer to Hydrologia Chymica in Numb 51. of these Tracts; Chiefly Concerning the Cause of the Sudden Loss of the Vertues of Mineral Waters 		
+10.2307_101027.xml	1669 	eng 	An Accompt of Two Books 	Michael M. 	Dary Charas 
+10.2307_101028.xml	1669 	eng 	Errata 		
+10.2307_101029.xml	1669 	lat 	A Description of Dr. Christopher Wren's Engin, Designed for Grinding Hyperbolical Glasses; As It Was in a Manner Promised Numb. 48. p. 962 	Christopher 	Wren 
+10.2307_101030.xml	1669 	eng 	Some Inquiries Concerning the Salt-Springs and the Way of Salt-Making at Nantwich in Cheshire; Answer'd by the Learned and Observing William Jackfon Dr. of Physick 	William 	Jackson 
+10.2307_101031.xml	1669 	eng 	An Extract of a Letter Written to the Publisher from Plymouth Novem. 2. 1669. by William Durston Dr. of Physick; Concerning the Death of the Bigg-Breasted Woman (Discoursed of in Numb. 52.) Together with what Was thereupon Observed in Her Body 	William William 	Durston Darston 
+10.2307_101032.xml	1669 	eng 	An Accompt of Some Books 	Robert Erasmi John 	Boyle Bartholini Evelyn 
+10.2307_101033.xml	1669 	eng 	Errata 		
+10.2307_101034.xml	1669 	eng 	A Letter Written by an Intelligent and Worthy English Man from Paris, to a Considerable Member of the R. Society in London, Concerning Some Transactions there, Relating to the Experiment of the Transfusion of Blood 	William William 	Durston Darston 
+10.2307_101035.xml	1669 	eng 	An Appendix to the Discourse Concerning the Salt-Work, Publisht in Numb. 53. Communicated by the Same Doctor Jackson, in a Letter of Novemb. 20. 1669 	Doctor 	Jackson 
+10.2307_101036.xml	1669 	eng 	A Relation Concerning the Quick-Silver Mines in Friuli; Communicated by Dr. Edward Brown; Co Firming as Well the Accompt Formerly Given of That Subject, in Numb. 2. of these Transactious, as Enlarging the Same with Some Additions 	Edward 	Brown 
+10.2307_101037.xml	1669 	eng 	An Accompt from the Same Dr. Brown Concerning an Vn-Common Lake, Called the Zirchnitzer-Sea, in Carniola 	Edward 	Brown 
+10.2307_101038.xml	1669 	eng 	An Accompt of Some Books 	M. Francois 	Charas Bayle 
+10.2307_101039.xml	1669 	eng 	Errata 		
+10.2307_101040.xml	1669 	eng 	An Accompt of Such of the More Notable Celestial Phaenomena of the Year 1670, as Will be Conspicuous in the English Horizon; Written by the Learned and Industrious Mr. John Flamstead Novemb. 4 1669. and by Him Addressed and Recommended for Encouragement, to the Right Honorable, the Lord Viscount Brouncker, as President of the Royal Society 	John 	Flamstead 
+10.2307_101041.xml	1669 	eng 	Some Observations Concerning the Baroscope and Thermoscope, Made and Communicated by Doctor I. Wallis at Oxford, and Dr. I Beale at Yeovil in Somerset, Deliver'd Here according to the Several Dates, When they Were Imparted. Dr. Beale in Those Letters of His Dated Decemb.18. Decemb. 29. 1669. and Januar. 3. 16 	I. I 	Wallis Beale 
+10.2307_101042.xml	1669 	eng 	An Accompt of a Small Tract, Entitaled, Thomaehobbes Quadratura Circuli, Cubatio Sphaera, Duplicatio Cubi, (Secundo Edita,) Denuo Refutata, Auth. Joh. Wallis. S. T. D. Geom, Prof. Saviltano. Oxoniae, 1669 	Joh 	Wallis 
+10.2307_101043.xml	1669 	eng 	Note 		
+10.2307_101044.xml	1669 	eng 	A Narrative of the Conjunction of the Two Seas, the Ocean and the Mediterranean, by a Channel, Cut out through Languedoc in France, by the Authority of the Most Christian King Louys XIV, and the Contrivance and Management of Monsicur Riquet: Englished by the Publisher Out of the French, Lately Sent to the Same from Paris, together with Printed Mapp of the Said Channel Here Contracted, and Explained 		
+10.2307_101045.xml	1669 	eng 	Some Confiderations Relating to D. Witties Defence of Scarborough Spaw (Abbreuiated in Numb. 51.) together with a Brief Accompt of a Less Considerable Salt-Spring in Somersetsh; And of a Medical Spring in Dorsetshire; By the Learned Dr. Highmore in a Letter to Dr J. Beale at Yeavil in Somersetsh 		
+10.2307_101046.xml	1669 	eng 	The Causes of Mineral Springs Further Inquired: And the Strange and Secret Changes of Liquors Examined; By Dr. J. Beale, to the Publisher 	J. 	Beale 
+10.2307_101047.xml	1669 	eng 	Instances, Hints, and Applications, Relating to a Main Point, Solicited in the Preface to this 4th Vol; Concerning the Use May be Made of Vaults, Deep Wells, and Cold Conservatories, to Find out the Cause, or to Promote the Generation of Salt, Minerals, Metals, Christal; Gems, Stones of Divers Kinds; And Helps to Conserue Long; Or to Hasten Putrefaction, Fertility of Any Land, &c. by the Same D. Beale, in Another Letter to the Publisher 	D. 	Beale 
+10.2307_101048.xml	1669 	eng 	De Respirationis Usa Primario Diatriba, Auth. Malachia Thruston M. D. Cui Accedunt Animadversiones a Cl. Viro in Candem Conscripta, una Cum Responsionibus Authoris. Londini, Apud Joh. Martyn, Reg. Societ. Typographum ad Insigne Campane, 1670 	Malachia 	Thruston 
+10.2307_101049.xml	1669 	eng 	Errata 		
+10.2307_101050.xml	1669 	eng 	Back Matter 		
+10.2307_101051.xml	1671 	eng 	Front Matter 		
+10.2307_101052.xml	1671 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_101053.xml	1671 	eng 	A Preface to This Seventh Years of These Transactions 		
+10.2307_101054.xml	1671 	eng 	A Solution, Given by Mr. John Collins of a Chorographical Probleme, Proposed by Richard Townley Esq. Who Doubtless Hath Solved the Same Otherwise 	John 	Collins 
+10.2307_101055.xml	1671 	eng 	An Accompt of Some Mineral Observations Touching the Mines of Cornwal and Devon; Wherein is Described the Art of Trayning a Load; The Art and Manner of Digging the Ore; And the Way of Dressing and of Blowing Tin: Communicated by an Inquisitive Person, That Was Much Conversant in Those Mines 		
+10.2307_101056.xml	1671 	eng 	An Accompt of Two Books 		
+10.2307_101057.xml	1671 	eng 	Errata 		
+10.2307_101058.xml	1671 	eng 	Extracts of Several Letters, Containing Sundry Inquiries and Experiments about the Bleeding of Trees, Especially by the Warmth of the Fire; The Circulation of Sap in Trees; The Consistence and Quantity of Sap in the Respective Parts of a Vegetable; And the Communication of One Part of a Plant with Another, In Relation to the Ascent and Descent of Sap, &c. 	Martin Francis 	Lister Willoughby 
+10.2307_101059.xml	1671 	eng 	Some Communications, about an Early Swarm of Bees, as Also Concerning Cyder; Descent of Sap; The Season of Transplanting Vegetables: Sent to the Publisher Out of Herefordshire by That Intelligent Gentleman, Richard Reed Esq;, In a Letter Dated March 14. 1670/1 at Lugwardine 	Richard 	Reed 
+10.2307_101060.xml	1671 	eng 	Some Observations, Touching Colours, in Order to the Increase of Dyes, and the Eixation of Colours; Generously Imparted by the Author of the Four Above-Mention'd Letters, Who Annexed Them to That of Februar. 15. 1670 		
+10.2307_101061.xml	1671 	eng 	An Accompt of Some Books 	Theodori Antonio J. Jaques 	Kerckringii le Grand Martin Rohault 
+10.2307_101062.xml	1671 	eng 	Note 		
+10.2307_101063.xml	1671 	eng 	Errata 		
+10.2307_101064.xml	1671 	eng 	Some Considerations upon Mr. Reeds Letter; Printed in N.70. Sheming, in what Sense the Sap May be Said to Descend, and to Circulate in Plants; and the Graft to Communicate with the Stock: At Also, what Choice of Apples for the Delicacy of the Liquor in Peculiar Seasons; and for Easie and Speedy Propagation: Pears for Some Lands Proper; Their Choice for Manisold Uses, Especially for Pleasant, or for Lasting Liquor; and How to be Planted, and Order'd for the Best Aduantage. The Best Season for Transplantation. An Apiary or Discipline of Bees, Recommended for Publick Benefit; All by Dr. John Beal in a Letter to the Publisher of May 13. 1671 	John 	Beal 
+10.2307_101065.xml	1671 	eng 	An Extract of a Latin Letter, Written by the Learned Signior Malpighi to the Publisher, Concerning Some Anatomical Observations, about the Structure of the Lungs of Froggs, Tortoises, & c. and Perfecter Animals; As Also the Texture of the Spleen, & c. 	Signior 	Malpighi 
+10.2307_101066.xml	1671 	eng 	A Narrative of Some Observations Lately Made by Certain Missionaries in the Upper Egypt; Communicated in a Letter Written from Cairo the Sixth of Januar. 1670 		
+10.2307_101067.xml	1671 	eng 	Extract of a French Letter, Written by F. Jaques Paul Babin, a Jessuit, to F. Ignatius Bardy of the Same Company, from Negropont, May 15.1670; And Lately Communicated by the Learned Jesuit Bertet to a Friend of His in London; Concerning the Flux of the Euripus 		
+10.2307_101068.xml	1671 	eng 	A Relation of Two Considerable Hurricans, Happened in Northampton-Shire, not above Four Miles Distance from One Another, within tho Compass of Less then Twelve Calendar-Months: Communicated by Mr. John Templer of Braybrook to a Friend of His in London 	John 	Templer 
+10.2307_101069.xml	1671 	eng 	A Narrative of Two Petrifications in Humane Bodies, Communicated by Mr. Christoph. Kirkby in a Letter from Dantzick, Dated April 8. 1671 	Christoph 	Kirkby 
+10.2307_101070.xml	1671 	eng 	An Accompt of Four Books 	Theod Johanne 	Kerckringii Ott 
+10.2307_101071.xml	1671 	eng 	Errata 		
+10.2307_101072.xml	1671 	eng 	A Curious Relation, Taken out the Third Venetian Journal de Letterati, of March 15. 1671; Of a Substance Found in Great Quantities in Some Mines of Italy; Out of Which is Made a Kind of Incombustible Both Skin, Paper, and Candle Week, together with the Experiments Made Therewith 		
+10.2307_101073.xml	1671 	eng 	Some Experiments of Signor Carolo Rinaldini, Philosopher and Mathematician in the University of Padoua; Shewing the Difference of Ice Made without Air, from That Which is Produced with Air: In the Same Venetian Journal 	Carolo 	Rinaldini 
+10.2307_101074.xml	1671 	eng 	Extracts of Three Letters, One, Concerning Some Philosophical Inquiries about Spiders, together with a Table of 33 Sorts of Spiders to be Found in England; as Also of a Kind of Viviparous Fly: The Second, about an Insect Feeding upon Henbain, and Thereby Qualifying in Its Body the Horrid Smell of That Plant, and Altering It to an Aromatical and Agreeable One: The Third, Containing Some Observations of Glow-Worms 	Martyn John 	Lister Templer 
+10.2307_101075.xml	1671 	eng 	An Accompt of Some Books 	Robert H. M. C. G. D. P. Thoma Nicolaus Moses 	Boyle Cantabrigiensem Bacheti de Fermat Hobbes Steno Pitt 
+10.2307_101076.xml	1671 	eng 	An Advertisement 		
+10.2307_101077.xml	1671 	eng 	Errata 		
+10.2307_101078.xml	1671 	eng 	A Table Shewing, to What Degree Air is Compressible in Sea-Water, at the Depth of Any Number of Feet from 1. to 33. Feet or 5 1/2 Fathom, and Thence for Any Number of 5 1/2 Fathoms, or 33. Feet, to 324 1/2 Fathoms or 1947 Feet 		
+10.2307_101079.xml	1671 	eng 	Extracts of Two Letters from Mr, Martin Lister to the Publisher, of June 14. 1671. and July 5. 1671. Concerning the Kind of Insect, Batched of the English Kermes, Formerly Taken Notice of and Described by the Same in Numb. 71. p.2164; as Also the Use of these Purple Insect: Husks for Tinging, Together with a Comparison Made of This English Purple Kermes with the Scarlet-Kermes of the Shops 	Martin 	Lister 
+10.2307_101080.xml	1671 	lat 	An Extract of a Letter, Written to the Publisher by the Excellent Johannes Hevelius, Concerning, His Further Observations of the New Star Near the Beak of the Swan; To be Compared with What Was Formerly Published of the Same Argument in Numb. 65. and Numb. 66 	Johannes 	Hevelius 
+10.2307_101081.xml	1671 	eng 	Another Accompt of the Same Subject, Englished Out of the French Journal Des Scavans, Printed at Paris the 22th of June 1671 	Johannes 	Hevelius 
+10.2307_101082.xml	1671 	lat 	An Answer of Dr. Wallis to Mr. Hobbes's Rosetum Geometricum in a Letter to a Friend in London, Dated July 16. 1671 	Johannes 	Wallis 
+10.2307_101083.xml	1671 	eng 	An Accompt of Some Books 	Caroli Richardo Gothofredo Guilielmo Edvardo 	de la Font Lower Leibnitio Pocokio 
+10.2307_101084.xml	1671 	eng 	Errata 		
+10.2307_101085.xml	1671 	eng 	An Intimation of Divers Philosophical Particulars, Now Undertaken and Consider'd by Several Ingenious and Learned Men; Here Inserted to Excite Others to Joyn with Them in the Same or the Like Attempts and Observations 	Signior 	Cassini 
+10.2307_101086.xml	1671 	eng 	The Extract of a Letter Written by Mr. John Ray to the Publisher from Midleton, July 3. 1671. Concerning Spontaneous Generation; As Also Some Insects Smelling of Musk 	John 	Ray 
+10.2307_101087.xml	1671 	eng 	Another Extract of a Letter Written from Midleton in Warwickshire to the Publisher July 10th. by Francis Willughby Esquire; About the Hatching of a Kind of Bee, Lodged in Old Willows 	Francis 	Willughby 
+10.2307_101088.xml	1671 	eng 	A Further Accompt of the Stellar Fifth; Formerly Described in Numb. 57. p. 1153; With the Addition of Some Other Curiosities 	Stellar 	Fish 
+10.2307_101089.xml	1671 	eng 	An Extract Out of the 3d and 7th Venetian Giornale De Letterati, Concerning the Formation of Faetus's 	Venetian Giornale 	de Letterati 
+10.2307_101090.xml	1671 	lat 	Dr. Wallis's Opinion Concerning the Hypothesis Physica Nova of Dr. Leibnitius, Promised in Numb. 73. and Here Inserted in the Same Tongue, Wherein It Was Written to the Publisher, April. 7. 1671 	Johannes 	Wallis 
+10.2307_101091.xml	1671 	eng 	An Accompt of Some Books 	Theoph 	Gale 
+10.2307_101092.xml	1671 	eng 	Errata 		
+10.2307_101093.xml	1671 	eng 	A Supplement to What Was Publish't N. 73. of the Compression of Air under Water 		
+10.2307_101094.xml	1671 	eng 	An Answer to Four Papers of Mr. Hobs, Lately Published in the Months of August, and This Present September, 1671 		
+10.2307_101095.xml	1671 	eng 	New Observations of Spots in the Sun; Made at the Royal Academy of Paris,the 11, 12 and 13th of August 1671; And English't Out of the French,as Follows 		
+10.2307_101096.xml	1671 	eng 	A Considerable Accompt Touching Vegetable Excrescencies, Given by That Learned and Observing Gentleman, Mr. Martin Lister, in a Letter to the Publisher, of July 17. 1671. from York 	Martin 	Lister 
+10.2307_101097.xml	1671 	eng 	An Accompt of Some Books 	Socio Joh M. 	Trin Dunsmore Bernier 
+10.2307_101098.xml	1671 	lat 	An Advertisement Necessary to be Given to the Readers of the Latin Version, Made by Mr. Sterpin at Copenhagen, of the Philosophical Tranfactions of A. 1669; Printed at Franckfurt on the Main by Dan. Pauli, A. 1671 		
+10.2307_101099.xml	1671 	eng 	Errata 		
+10.2307_101100.xml	1671 	eng 	Observations, Made by Several Astronomers, Domestic and Forrain, of the Late Eclipse of the Moon, on Septemb. 8. 1671; Here Delivered in the Languages, in Which they Were Communicated 		
+10.2307_101101.xml	1671 	eng 	An Account of the Dissection of a Porpess, Promised Numb. 74; Made, and Communicated in a Letter of Sept. 12 1671, by the Learned Mr. John Ray, Having therein Observ'd Some Things Omitted by Rondeletius 	John 	Ray 
+10.2307_101102.xml	1671 	eng 	A Letter of Francis Willoughby Esquire, of August 24, 1671, Containing Some Considerable Observations about That Kind of Wasps, Call'd Vespae Ichneumones; Especially Their Several Ways of Breeding, and among Them, That Odd Way of Laying Their Eggs in the Bodies of Caterpillars, & c. 	Francis 	Willoughby 
+10.2307_101103.xml	1671 	eng 	A Letter of Mr. Martin Lister, Written at York August 25 1671, Confirming the Observation in No 74. about Musk Sented Insects; Adding Some Notes upon D. Swammerdam's Book of Insects, and on That of M. Steno Concerning Petrify'd Shell 	Martin 	Lister 
+10.2307_101104.xml	1671 	eng 	Another Letter, Written of the Same Gentleman, from York Sept. 13, 1671. Enlarging His Former Communications in Numb. 75 about Vegetable Excrescencies, and Ichneumon-Worms 	Martin 	Lister 
+10.2307_101105.xml	1671 	eng 	An Accompt of Some Books 	Johannis Danielis 	Wallisii Ludovici 
+10.2307_101106.xml	1671 	eng 	Errata 		
+10.2307_101107.xml	1671 	lat 	Observations Made by Mr. Hook, of Some Spots in the Sun, Return'd after they Had Passed Over the Upper Hemi Sphere of the Sun Which is Bid from Us; According as Was Predicted 		
+10.2307_101108.xml	1671 	eng 	Some Additions of Mr. Lyfter to His Former Communications about Vegetable Excrescencies, and Ichneumon Wasps; Together with an Inquiry Concerning Tarantula's, and a Discovery of Another Musk-Sented Insect: Transmitted to the Publisher from York in Two Letters, of Octob. 16. and 28. 1671 		
+10.2307_101109.xml	1671 	eng 	An Accompt of Some Books 	N. Monsieur D. Friderico Rich 	Witsen Bourdelot Lachmund Lower 
+10.2307_101110.xml	1671 	eng 	Errata 		
+10.2307_101111.xml	1671 	eng 	The Observations of the Spots of the Sun, Made at the Royal Academy at Paris, Continued; And English't Out of French 		
+10.2307_101112.xml	1671 	eng 	An Extract of a Letter, Written at Paris Novemb. 7. 1671. (St.n.) by Monsieur Christian Hugens de Zulichem to the Publisher; Concerning the Observations of Saturn Mentioned in the Next Foregoing Discourse: English't Out of French 	Hugens 	de Zulichem 
+10.2307_101113.xml	1671 	lat 	An Extract of Two Letters of M. Hevelius, of June 19. and of Octob. 7. 1671; Containing Some of His Late Celestial Observations, Touching Saturn Obscur'd by the Moon; A Lunar Eclipse; And an Occultation of the First of the Satellits of Jupiter by the Shadow of This Planet; a Transit of Jupiter and the Moon; And a Late Appearance of Saturn: All Here Delever'd in the Language, Wherein the Author Communicated It 	M. 	Hevelius 
+10.2307_101114.xml	1671 	eng 	An Extract of a Letter, Written from Hamburg Novemb. 1. 1671. by the Learned Doctor Fogelius to the Publisher, Concerning the Spots of the Sun Returned; And the Last Eclipse of the Moon; Here Communicated Also in the Same Language, in Which It Was Written 	Doctor 	Fogelius 
+10.2307_101115.xml	1671 	eng 	Extracts of Two Letters Written from Darby, Novemb. 21. and Decemb 2. 1671. by Mr. John Flamstead to the Publisher, Touching Some Late Appearances of Saturn 	John 	Flamstead 
+10.2307_101116.xml	1671 	eng 	Some Further Observations of Mr. John Templer, about the Shining of Glow-Worms 	John 	Templer 
+10.2307_101117.xml	1671 	eng 	An Accompt of Some Books 	Nehemiah Sieur mesme 	Grew Petit Autheur 
+10.2307_101118.xml	1671 	eng 	Errata 		
+10.2307_101119.xml	1671 	eng 	A Letter of Mr. Martyn Lister, Written to the Publisher from York, Januar. 10. 1671/2, Containing an Ingenious Account of Veins by Him Observ'd in Plants, Analogous to Human Veins 	Martyn 	Lister 
+10.2307_101120.xml	1671 	eng 	An Account of the Speaking Trumpet, as It Hath Been Contrived and Published by Sir Sam. Moreland Knight and Baronet; Together with Its Uses Both at Sea and Land. Printed at London An. 1671 		
+10.2307_101121.xml	1671 	eng 	An Observation and Experiment Concerning a Mineral Balsom, Found in a Mine of Italy by Signior Marc-Antonio Castagna; Inserted in the 7th. Giornale Veneto de Letterati of June 22. 1671, and Thence English'd as Follows 	Marc-Antonio 	Castagna 
+10.2307_101122.xml	1671 	eng 	Two Observations Made by P. Francesco Lana, the Author of the Prodromus Premised to Arte Maestra, Concerning Some of the Effects of the Burning Concave of Lions; And Also an Odd Salt Extracted out of a Metallic Substance: Taken Out of the Same Venetian Journal 	P. Francesco 	Lana 
+10.2307_101123.xml	1671 	lat 	De Lunae ad Pleiadas Reliquas Applicationibus, Anno 1672 Observandis, Promissa Appendicula Johannis Flamsteed 	Johannis 	Flamsteed 
+10.2307_101124.xml	1671 	lat 	An Account of Some Books 	Regnerus Marci 	de Graaf Meibomii 
+10.2307_101125.xml	1671 	eng 	A Letter of Mr. Isaac Newton, Professor of the Mathematicks in the University of Cambridge; Containing His New Theory about Light and Colors: Sent by the Author to the Publisher from Cambridge, Febr. 6. 1671/72; In Order to be Communicated to the R. Society 	Isaac 	Newton 
+10.2307_101126.xml	1671 	eng 	An Accompt of Some Books 	Philippus J. 	Baldaeus Martyn 
+10.2307_101127.xml	1671 	eng 	Errata 		
+10.2307_101128.xml	1671 	eng 	Back Matter 		
+10.2307_101129.xml	1674 	eng 	Front Matter 		
+10.2307_101130.xml	1674 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_101131.xml	1674 	eng 	The Preface to the Tenth Year of These Tracts 		
+10.2307_101132.xml	1674 	eng 	A Letter, not Long Since Written to the Publisher by an Experienced Person Residing at Amsterdam, Containing a True Description of Nova Zembla, Together with an Intimation of the Advantage of Its Shape and Position 		
+10.2307_101133.xml	1674 	eng 	A Way of Extracting a Volatil Salt and Spirit Out of Vegetables; Intimated in Numb. 100. p. 7002; Experimented, and Imparted by the Learned and Intelligent Dr. Daniel Coxe, Fellow of the R. Society 	Daniel 	Coxe 
+10.2307_101134.xml	1674 	eng 	An Observation of Dr. Johnstons of Pomphret, Communicated by Him to Mr. Lister, and by Him Sent in a Letter to the Publisher, Concerning Some Stones of a Perfect Gold-Colour; Found in Animals 		
+10.2307_101135.xml	1674 	eng 	Extracts of Two Letters, Written to the Publisher from Hamborough by the Learned Christophorus Sandius, Concerning the Origin of Pearls 	Christophorus 	Sandius 
+10.2307_101136.xml	1674 	eng 	An Account of Some Books 	Robert Raymundus 	Hook Mindererus 
+10.2307_101137.xml	1674 	eng 	Errata 		
+10.2307_101138.xml	1674 	eng 	Considerations of Mr. Leewenhoeck, Touching the Compression of the Air; Sent to the Publisher in His Letter of August 15. 1673 		
+10.2307_101139.xml	1674 	eng 	More Microscopical Observations Made by the Same M. Leewenhoeck, and Promised in Numb. 97. of These Tracts; Communicated in His Letters of August 15. 1673 and of April 7. 1674 	M. 	Leewenhoeck 
+10.2307_101140.xml	1674 	eng 	Sir Samuel Morelands Undertaking for Raising of Water 	Samuel 	Morelands 
+10.2307_101141.xml	1674 	eng 	A Note about Some Unusual Diamonds 		
+10.2307_101142.xml	1674 	eng 	A Certain Phaenomenon, Seen by Monsieur Havelius, Feb. 5. 1674. St. No. not Far from Marienburg in Boroussia -about the Sun a Little before His Setting and the Moon's Conjunction, and the Sun's Eclipse, (Which Yet Was Not Seen by Him.) 	Monsieur 	Havelius 
+10.2307_101143.xml	1674 	lat 	An Extract of Monsieur Hevelius's Letter, Lately Written to the Publisher, Concerning the Famous Kepler's Manuscripts; Together with Some Considerations of His, about the Use of Telescopic Sights in Astronomical Observations: Delivered in the Same Language, Wherein 'Twas Written 		
+10.2307_101144.xml	1674 	eng 	An Account of Some Books 	Johannis Carew John 	Schefferi Reynel Smith 
+10.2307_101145.xml	1674 	eng 	An Advertisement about a New Size of Globes Rectified 		
+10.2307_101146.xml	1674 	eng 	Some Observations and Experiments about Vitriol, Tending to Find Out the Nature of That Substance, and to Give Further Light in the Inquiry after the Principles and Properties of Other Minerals: Communicated by a Fellow of the R. Society, Who Maketh Use of Chymistry Chiefly as Subservient to Physiology 		
+10.2307_101147.xml	1674 	eng 	Some Inquiries and Suggestions Concerning Salt for Domestick Uses; and Concerning Sheep, to Preserve Them, and to Improve the Race of Sheep for Hardiness, and for the Finest Drapery. In a Letter from Doctor John Beal to the Publisher 	John 	Beal 
+10.2307_101148.xml	1674 	eng 	An Account of Some Books 	John Davidis 	Smith von der Beck 
+10.2307_101149.xml	1674 	eng 	A Continuation of the Discourse Concerning Vitriol, Begun in Numb. 103. Shewing, that Vitriol is Usually Produced by Sulphur, Acting on, and Concoagulating with, a Metal; And Then Making Out, that Allom is Likewise the Result of the Said Sulphur; As Also Evincing, that Vitriol, Sulphur, and Allom, Do Agree in the Saline Principle; And Lastly, Declaring the Nature of the Salt in Brimstone, and Whence It is Derived 		
+10.2307_101150.xml	1674 	lat 	An Extract of a Letter of Monsieur Hevelius, Lately Written to the Publisher, Together with the Copy of a Letter of Dr. Wasmouth, Giving a Large Account of a New Astronomico-Chronological Work, Now by Him Preparing: Both Deliver'd in the Fame Language, Wherein They Were Written 	Monsieur 	Hevelius 
+10.2307_101151.xml	1674 	eng 	An Account of Some Books 	Nicholas Paulo J. 	Stevenson Boccone Evelyn 
+10.2307_101152.xml	1674 	lat 	Extracts of Two Letters, the One from Monsieur Christian Hugens de Zulichem, Touching His Thoughts of Mr. Hook's Observations for Proving the Motion of the Earth; The Other from Seignior Cassini, Concerning the Same Argument 	Christian Hugens Seignior 	de Zulichem Cassini 
+10.2307_101153.xml	1674 	eng 	Observations Concerning the Comet That Was Seen in Brasil, An. 1668. in March, by P. Valentin Estancel a Jesuit, and by Him Sent to Rome; Where They Were Printed in the 9th Italian Giornale de Letterati, Septemb. 31. 1673 	P. Valentin 	Estancel 
+10.2307_101154.xml	1674 	eng 	Brief Directions How to Tan Leather according to the New Invention of the Honourable Charles Howard of Norfolk, Experimented and Approved of by Divers of the Principal Tanners Using Leaden-Hall Market 	Charles 	Howard 
+10.2307_101155.xml	1674 	eng 	An Extract of a Letter of Mr. Martin Lister Concerning the First Part of His Tables of Snails, Together with Some Quaere's Relating to Those Insects, and the Tables Themselves; Sent to the Publisher from York, March 12. 1673 	Martin 	Lister 
+10.2307_101156.xml	1674 	eng 	A Relation Written to the Publisher from a Person of Great Veracity in Germany, Concerning an Aged Woman of 60 Years, Giving Suck to Her Grand-Child, &c 		
+10.2307_101157.xml	1674 	eng 	An Accompt of Two Books 	Isbrando 	de Diemerbroeck 
+10.2307_101158.xml	1674 	eng 	Errata 		
+10.2307_101159.xml	1674 	eng 	Microscopical Observations from Mr. Leeuwenhoeck, about Blood, Milk, Bones, the Brain, Spitle, Cuticula, Sweat, Fatt, Teares; Communicated in Two Letters to the Publisher 		
+10.2307_101160.xml	1674 	eng 	An Account of a Notable Case of a Dropsy Mistaken For Gravidation in a Young Woman; Communicated by a Learned and Inquifitive Physitian in Holland, Confiderably Enlarging the Observation Made of the Same Case by the Famous Dr. Tulpius, lib. 4. Obs. c. 48 		
+10.2307_101161.xml	1674 	eng 	An Account of Three Books 	Erasmi 	Bartholini 
+10.2307_101162.xml	1674 	eng 	Errata 		
+10.2307_101163.xml	1674 	eng 	An Observation Made by the Learned Dr. Sampson of a Man Anatomised, Whose Bowels Were Found Inverted 		
+10.2307_101164.xml	1674 	eng 	An Account of the Two Sorts of the Helmontian Laudanum, Communicated to the Publisher by the Honourable Robert Boyle, Together with the Way of the Noble Baron F. M. van Helmont (Son to the Famous Johannes Baptista,) of Preparing His Laudanum 	Robert 	Boyle 
+10.2307_101165.xml	1674 	eng 	A Discourse Denying the Prae-Existence of Alcalizate or Fixed Salt in Any Subject, before It Were Exposed to the Action of the Fire: To Which is Added a Confirmation of an Assertion, Deliver'd in Numb. 101. p. 5. Section 6. of These Tracts, viz. That Alcalizate or Fixed Salts Extracted out of the Ashes of Vegetables, Do Not Differ from Each Other: The Same Likewise Affirmed of Volatil Salts and Vinous Spirits; by the Learned Dr. Daniel Coxe 	Daniel 	Coxe 
+10.2307_101166.xml	1674 	eng 	An Account of Some Books 	Erasmi Thomae Charles 	Bartholini Bartholini Drelincourt 
+10.2307_101167.xml	1674 	eng 	Errata 		
+10.2307_101168.xml	1674 	eng 	AContinuation of Dr. Daniel Coxe's Discourse, Begunin Numb. 107. Touching the Identity of All Volatil Salts, and Vinous Spirits; Together with Two Surprizing Experiments Concerning Vegetable Salts, Perfectly Resembling the Shape of the Plants, Whence They Bad Been Obtained 	Daniel 	Coxe 
+10.2307_101169.xml	1674 	eng 	An Accompt of Some Books 	Willhelm Johan Alonso R. H. N. 	Muller Barba Edward Stevenson 
+10.2307_101170.xml	1674 	eng 	Advertisement 		
+10.2307_101171.xml	1674 	eng 	Errata 		
+10.2307_101172.xml	1674 	eng 	A Relation Sent Novemb. 16. 1674. from a Very Credible and Ingenious Person, Mr. Samuel du Gard, Rector of Forton in Shropshire, to Dr. Ra. Bathurst Vice-Chancellor of the University of Oxford, and by Him Communicated to a Friend of His in London; Concerning a Strange Kind of Bleeding in a Little Child 	Samuel 	du Gard 
+10.2307_101173.xml	1674 	eng 	Some Queries and Answers, Relating to an Account Given in Numb. 54. by Dr. Edw. Brown, of a Strange Lake in Carniola, Call'd the Zirchnitz-Sea: The Queries Were Made by a Curious Person in France; The Answers Given by the Author of the Said Accompt 		
+10.2307_101174.xml	1674 	eng 	A Narrative of Some Observations Made upon Several Voyages, Undertaken to Find a Way for Sailing about the North to the East-Indies, and for Returning the Same Way from Hence Hither: Together with Instructions Given by the Dutch East-India Company For the Discovery of the Famous Land of Jesso Near Japan. To Which is Added a Relation of Sailing through the Northern America to the East-Indies. Englished by the Publisher Out of Dutch, Which Had Been Compos'd by Dirick Rembrantz van Nierop, and Printed at Amsterdam. 1674. in 4 degrees 	Dirick Rembrantz 	van Nierop 
+10.2307_101175.xml	1674 	eng 	An Accompt of Three Books 	William Alonfo Robert 	Petty Barba Hook 
+10.2307_101176.xml	1674 	eng 	Errata 		
+10.2307_101177.xml	1674 	eng 	A Letter of the Learned Franc. Linus, to a Friend of His in London, Animadverting upon Mr. Isaac Newton's Theory of Light and Colours, Formerly Printed in These Tracts 	Franc 	Linus 
+10.2307_101178.xml	1674 	eng 	Extracts of Two Letters, Written by Mr. Flamsteed to Mr. Collins; The One of Novemb. 25. 1624, Concerning an Instrument to Shew the Moon's True Place to a Minute or Two; as Also the Writer's Design of Correcting the Hitherto Assign'd Motions of the Sun: The Other, of Decemb. 14. 1674. Touching the Necessity of Making New Solar Numbers, Together With An Expedient for Making Trial, Whether the Refractions in Signor Cassini's Tables are Just 		
+10.2307_101179.xml	1674 	eng 	Some Observations and Experiments Made, and in a Letter Communicated to the Publisher, for the R. Society, by the Learned and Inquisitive Mr. Martin Lister 	Martin 	Lister 
+10.2307_101180.xml	1674 	eng 	An Account of Some Books 	Robert Edward 	Boyle Sherburn 
+10.2307_101181.xml	1674 	eng 	Errata 		
+10.2307_101182.xml	1674 	eng 	An Account of What Bath Been Observed Here in London and Derby, by Mr. Hook, Mr. Flamstead, and Others, Concerning the Late Eclipse of the Moon, of Jan. 1. 164/5 		
+10.2307_101183.xml	1674 	eng 	An Accompt of D. Paulus Biornonius, Residing in Iceland, Given to Some Philosophical Inquiries Concerning That Country, Formerly Recommended to Him from Hence: The Narrative being in Latine, 'tis Thus English'd by the Publisher 	D. Paulus 	Biornonius 
+10.2307_101184.xml	1674 	eng 	Divers Rural and Oeconomical Inquiries, Recommended to Observation and Tryal 		
+10.2307_101185.xml	1674 	lat 	An Extract of a Letter of Dr. J. Wallis, to M. Hevelius, from Oxford, Decemb. 31. 1673. Gratulatory for His Organographia; And Particularly Concerning Divisions by Diagonals, Lately Inserted in Mr. Hook's Animadversions on the First Part of the Machina Coelestis of the Honourable Joh. Hevelius; But so Faultly Printed, That It Was Thought Fit, at the Author's Desire, in His Letter to the Publisher, of Januar. 4. 1674/5 to be here Done More Correctedly 	J. 	Wallis 
+10.2307_101186.xml	1674 	eng 	An Account of Some Books 	Robert Abraham 	Boyle Munting 
+10.2307_101187.xml	1674 	eng 	Back Matter 		
+10.2307_101188.xml	1666 	eng 	Front Matter 		
+10.2307_101189.xml	1666 	eng 	To the Right Honourable William Lord Viscount Brouncker, Chancellor to Her Majesty, and President to the Royal Society, &c. 	Henry 	Oldenburg 
+10.2307_101190.xml	1666 	eng 	A Preface to the Third Year of These Tracts 		
+10.2307_101191.xml	1666 	eng 	Inquiries for Suratte, and Other Parts of the East-Indies 		
+10.2307_101192.xml	1666 	eng 	Of a Considerable Load-Stone Digged Out of the Ground in Devonshire 		
+10.2307_101193.xml	1666 	eng 	Some Observables about Load-Stones, and Sea-Compasses 		
+10.2307_101194.xml	1666 	eng 	Proposals to Try the Effects of the Pneumatick Engine Exhausted, in Plants, Seeds, Eggs of Silkworms 		
+10.2307_101195.xml	1666 	eng 	Observations Concerning Emmets or Ants, Their Eggs, Production, Progress, Coming to Maturity, Use, &c 	Edmund 	King 
+10.2307_101196.xml	1666 	eng 	An Account of a Small Book 		
+10.2307_101197.xml	1666 	eng 	Directions for Observations and Experiments to Be Made by Masters of Ships, Pilots, and Other Fit Persons in Their Sea-Voyages 		
+10.2307_101198.xml	1666 	eng 	Advertisement 		
+10.2307_101199.xml	1666 	eng 	An Account of an Easier and Safer Way of Transfusing Blood Out of One Animal into Another, viz. by the Veins, without Opening Any Artery of Either 	Edmond 	King 
+10.2307_101200.xml	1666 	eng 	An Account of Another Experiment of Transfusion, viz. of Bleeding a Mangy into a Sound Dog 	Thomas 	Coxe 
+10.2307_101201.xml	1666 	eng 	An Extract of a Letter of M. Denis Prof. of Philosophy and Mathematicks to M. * * * Touching the Transfusion of Blood, of April 2. 1667 	M. 	Denis 
+10.2307_101202.xml	1666 	eng 	Observations Concerning the Uniting of Barks of Trees Cut, to the Tree It Self; Made by Christopher Merret M. D. and Read before the Royal Society January 9. 1666 	Christopher 	Merret 
+10.2307_101203.xml	1666 	eng 	An Experiment of Making Cherry-Trees, That Have Withered Fruit, to Bear Full and Good Fruit; And of Recovering the Almost Withered Fruit 	Christopher 	Merret 
+10.2307_101204.xml	1666 	eng 	An Experiment on Aloe Americana Serrati-Folia Weighed; Seeming to Import a Circulation of the Sappe in Plants, by the Same Dr. Merret 		
+10.2307_101205.xml	1666 	eng 	An Extract of a Letter, Written by Mr. Richard Towneley to Dr. Croon, Touching the Invention of Dividing a Foot into Many Thousand Parts, for Mathematical Purposes 	Richard 	Towneley 
+10.2307_101206.xml	1666 	eng 	More Wayes for the Same Purpose, Intimated by M. Hook 	M. 	Hook 
+10.2307_101207.xml	1666 	eng 	Observations of the Star, Called Nebulosa, in the Girdle of Andromeda; And of the Wondrous Star in the Neck of the Whale: Made and Communicated by Monsieur Bullialdus 	Monsieur 	Bullialdus 
+10.2307_101208.xml	1666 	eng 	An Extract of a Letter of M. Pecquet to M. Carcavi, Concerning a New Discovery of the Communication of the Ductus Thoracicus with the Emulgent Vein: Taken Out of the Journal des Scavans, N. VII. 1667 	M. 	Pecquet 
+10.2307_101209.xml	1666 	eng 	A Description of Several Kinds of Granaries, as Those of London, of Dantzick, and in Muscovy 		
+10.2307_101210.xml	1666 	eng 	Inquiries for Hungary and Transylvania 	Thomas Abraham 	Henshaw Hill 
+10.2307_101211.xml	1666 	eng 	Experiments for Improving the Art of Gunnery 		
+10.2307_101212.xml	1666 	eng 	Answer to Some Magnetical Inquiries, Proposed Numb. 23. of These Transactions, Pag. 423, 424 		
+10.2307_101213.xml	1666 	eng 	Extract of a Letter, Written from Paris, Containing an Account of Some Effects of the Transfusion of Bloud; And of Two Monstrous Births, &c 		
+10.2307_101214.xml	1666 	eng 	An Account of Two Monstrous Births, not Long since Produced in Devonshire; Communicated by M. Colepresse 	M. 	Colepresse 
+10.2307_101215.xml	1666 	eng 	Some Observations Made in Mines, and at Sea, Occasioning a Conjecture about the Origine of Wind: Imparted by the Same Mr. C. 		
+10.2307_101216.xml	1666 	eng 	Account of a Great Number of Stones, Found in One Bladder, by the Same 		
+10.2307_101217.xml	1666 	eng 	The Description of a Well, and Earth in Lanchashire, Taking Fire by a Candle Approached to It 		
+10.2307_101218.xml	1666 	eng 	Account of Athanasii Kircheri China Illustrata 	Athanasii 	Kircheri 
+10.2307_101219.xml	1666 	eng 	An Advertisement Concerning the Invention of the Transfusion of Bloud 		
+10.2307_101220.xml	1666 	eng 	An Account of Some Experiments of Injecting Liquors into the Veins of Animals, Lately Made in Italy by Signior Fracassati Professor of Anatomy at Pisa 	Signior 	Fracassati 
+10.2307_101221.xml	1666 	eng 	An Account of Some Discoveries Concerning the Brain, and the Tongue, Made by Signior Malpighi, Professor of Physick in Sicily 	Signior 	Malpighi 
+10.2307_101222.xml	1666 	eng 	An Experiment of Signior Fracassati upon Bloud Grown Cold 	Signior 	Fracassati 
+10.2307_101223.xml	1666 	eng 	Some Observations Communicated by Signior Manfredus Septalius from Milan, Concerning Quicksilver Found at the Roots of Plants, and Shels Found upon In-Land Mountains 	Manfredus 	Septalius 
+10.2307_101224.xml	1666 	eng 	Observations Made by a Curious and Learned Person, Sailing from England, to the Caribe-Islands 		
+10.2307_101225.xml	1666 	eng 	Extract of a Letter, Written by Mr. Sam. Colepress to the Publisher, Containing an Account of Some Magnetical Experiments; As Also of an Excellent Liquor Made of Cyder-Apples and Mulberries 		
+10.2307_101226.xml	1666 	eng 	An Account of Some Books 	Gualtero Nicolao 	Needham Stenone 
+10.2307_101227.xml	1666 	eng 	An Account of More Tryals of Transfusion, Accompanied with Some Considerations Thereon, Chiefly in Reference to Its Circumspect Practise on Man; Together with a Farther Vindication of This Invention from Usurpers 		
+10.2307_101228.xml	1666 	eng 	Answers to Some of the Iuquires Formerly Publish'd Concerning Mines 		
+10.2307_101229.xml	1666 	eng 	An Extract of a Letter Sent from Paris, about the Load-Stone; Where Chiefly the Suggestion of Gilbert Touching the Circumvolution of a Globous Magnet, Call'd Terrella; And the Variation on of the Variation, is Examined 		
+10.2307_101230.xml	1666 	eng 	An Account of Some Books 	Robert Justo 	Boyle Klobio 
+10.2307_101231.xml	1666 	eng 	An Account of an Experiment Made by Mr. Hook, of Preserving Animals Alive by Blowing through Their Lungs with Bellows 		
+10.2307_101232.xml	1666 	eng 	A Description of an Instrument for Dividing a Foot into Many Thousand Parts, and Thereby Measuring the Diameters of Planets to a Great Exactness, &c. as It Was Promised, Numb. 25 		
+10.2307_101233.xml	1666 	eng 	An Account of Making a Dog Draw His Breath Exactly Like a Wind-Broken Horse, as It Was Devised and Experimented by Dr. Richard Lower; With Some of His Instructive Observations Thereon 	Richard 	Lower 
+10.2307_101234.xml	1666 	eng 	Anatomical Observations on a Humane Body, Dead of Odd Diseases; As They Were Communicated by Dr. Nathanael Fairfax 	Nathanael 	Fairfax 
+10.2307_101235.xml	1666 	eng 	Divers Instances of Peculiarities of Nature, Both in Men and Brutes; Communicated by the Same 	Nathanael 	Fairfax 
+10.2307_101236.xml	1666 	eng 	A Confirmation of the Experiments Mentioned in Numb. 27. to Have Been Made by Signor Fracassati in Italy, by Injecting Acid Liquors into Blood 	Signor 	Fracassati 
+10.2307_101237.xml	1666 	eng 	An Observation about the Epiploon, or the Double Membrane, Which Covers the Entrails of Animals, and is Filled with Fat 		
+10.2307_101238.xml	1666 	eng 	Some Hortulan Communications about the Curious Engrafting of Oranges and Lemons, or Citrons, upon One Anothers Trees, and of One Individual Fruit, Half Orange and Half Lemon Growing on Such Trees, &c 		
+10.2307_101239.xml	1666 	eng 	Enquiries for Greenland 		
+10.2307_101240.xml	1666 	eng 	An Account of the Synopsis Novae Philosophiae & Medicinae Francisci Travagini Medici Veneti 		
+10.2307_101241.xml	1666 	eng 	An Account of the Experiment of Transfusion, Practised upon a Man in London 	Arthur 	Coga 
+10.2307_101242.xml	1666 	eng 	A Relation of Some Trials of the Same Operation, Lately Made in France 		
+10.2307_101243.xml	1666 	eng 	Some New Experiments of Injecting Medicated Liquors into Veins, Together with the Considerable Cures Perform'd Thereby 		
+10.2307_101244.xml	1666 	eng 	An Extract of a Letter, Written from the Bermudas, Giving an Account of the Course of the Tides There; Of Wells Both Salt and Sweet, Digg'd Near the Sea; Of the Whale-Fishing There Practised Anew, and of Such Whales as Have the Sperma Ceti in Them 	Richard 	Norwood 
+10.2307_101245.xml	1666 	eng 	A Method for Finding the Number of the Julian Period for Any Year Assign'd, the Number of the Cycle of the Sun, the Cycle of the Moon, and of the Indictions for the Same Year,being Given; Together with the Demonstration of That Method 		
+10.2307_101246.xml	1666 	eng 	An Account of Some Books 	Petri Thomae du Sieur Francisci 	Lambecii Cornelii de Launay du Laurens 
+10.2307_101247.xml	1666 	eng 	Errata 		
+10.2307_101248.xml	1666 	eng 	New Experiments Concerning the Relation between Light and Air (in Shining Wood and Fish); Made by the Honourable Robert Boyle, and by Him Addressed from Oxford to the Publisher, and So Communicated to the Royal Society 	Robert 	Boyle 
+10.2307_101249.xml	1666 	eng 	An Account of Two Books 	Thomae 	Willis 
+10.2307_101250.xml	1666 	eng 	Observations and Tryals about the Resemblances and Differences between a Burning Coal and Shining Wood 		
+10.2307_101251.xml	1666 	eng 	An Observation Concerning a Blemish in an Horses Eye, Not Hitherto Discover'd by Any Author, Which May be of Great Use in the Choice of an Horse to Those Who are Curious; Made by Dr. Richard Lower at the Royal Society, January 23. 1667/8 	Richard 	Lower 
+10.2307_101252.xml	1666 	eng 	An Extract of a Letter Written by Signor Cassini Professor of Astronomy in Bononia, to Monsieur Petit at Paris, and Englished out of the Journal Des Scavans, Concerning Several Spots Lately Discover'd There in the Planet Venus 	Signor 	Cassini 
+10.2307_101253.xml	1666 	eng 	An Extract of a Letter, Written by J. DENIS, Doctor of Physick, and Professor of Philosophy and the Mathematicks at Paris, Touching a Late Cure of an Inveterate Phrenfy by the Transfusion of Blood 	J. 	Denis 
+10.2307_101254.xml	1666 	lat 	An Exact Narrative of an Hermaphrodite Now in London 		
+10.2307_101255.xml	1666 	eng 	An Account of Some Books 	Honorato 	Fabri 
+10.2307_101256.xml	1666 	eng 	An Advertisement 		
+10.2307_101257.xml	1666 	eng 	Errata 		
+10.2307_101258.xml	1668 	eng 	Front Matter 		
+10.2307_101259.xml	1668 	eng 	An Introduction to the Fourth Year of These Tracts 		
+10.2307_101260.xml	1668 	eng 	An Account of the Invention of Grinding Optick and Burning-Glasses, of a Figure Not-Spherical, Produced before the Royal Society 		
+10.2307_101261.xml	1668 	eng 	An Account of Some Observations Made by Mr. Samuel Colepresse at and Nigh Plimouth, An. 1667. by Way of Answer to Some of the Quaeries Concerning Tides, Propos'd Numb. 17. and 18 	Samuel 	Colepresse 
+10.2307_101262.xml	1668 	eng 	Enquiries and Directions For the Ant-Iles, or Caribbe-Islands 		
+10.2307_101263.xml	1668 	eng 	An Account of Two Books 	Gregorio 	Scoto 
+10.2307_101264.xml	1668 	eng 	The Squaring of the Hyperbola, by an Infinite Series of Rational Numbers, Together with Its Demonstration, by that Eminent Mathematician, the Right Honourable the Lord Viscount Brouncker 	Viscount 	Brouncker 
+10.2307_101265.xml	1668 	lat 	An Extract of a Letter, Written by the Honourable Consul of Danzick, the Heer Michael Behm, to the Excellent Johannes Heuelius, Consul of the Same City (by Whom It Was Communicated to the Publisher) Touching Some Chymical, Medicinal and Anatomical Particulars, Here Deliver'd in the Same Language It Was Written in 	Michael 	Behm 
+10.2307_101266.xml	1668 	eng 	Two Letters, Written by Dr. John Wallis to the Publisher; One, Concerning the Variety of the Annual High-Tides In Respect to Several Places: The Other, Concerning Some Mistakes of a Book Entitaled SPECIMINA MATHEMATICA Francisci Dulaurens, Especially Touching a Certain Probleme, Affirm'd to Have Been Proposed by Dr. Wallis to the Mathematicians of All Europe, for a Solution 	John 	Wallis 
+10.2307_101267.xml	1668 	eng 	A Letter Written to Dr. John Wallis by Mr. Henry Philips, Containing His Observations about the True Time of the Tides 	Henry 	Philips 
+10.2307_101268.xml	1668 	eng 	An Account of Some Books 	W. Regeneri Johannis 	Sengvverdius de Graaf van Horne 
+10.2307_101269.xml	1668 	eng 	Errata 		
+10.2307_101270.xml	1668 	eng 	An Account of an Experiment, Concerning Deafness, Communicated to the R. Society, by That Worthy and Learned Divine Dr. William Holder, as Followeth 	William 	Holder 
+10.2307_101271.xml	1668 	eng 	A New Discovery Touching Vision 	Monsieur 	Justel 
+10.2307_101272.xml	1668 	lat 	A Letter, Written to the Publisher by the Learned and Experienced Dr Timothy Clarck One of His Majesties Physitians in Ordinary, Concerning Some Anatomical Inventions and Observations, Particularly the Origin of the Injection into Veins, the Transfusion of Bloud, and the Parts of Generation 	Timothy 	Clarck 
+10.2307_101273.xml	1668 	eng 	Some Observations Concerning the Comet, That Hath Lately Appear'd in Forain Parts, Communicated from Italy and Portugal 		
+10.2307_101274.xml	1668 	eng 	An Account of Some Books 	Jacobo Gregorio John 	Scoto Wilkins 
+10.2307_101275.xml	1668 	eng 	Errata 		
+10.2307_101276.xml	1668 	lat 	An Account of a Controversy Betwixt Stephano de Angelis, Professor of the Mathematicks in Padua, and Joh. Baptista Riccioli Jesuite as It Was Communicated Out of Their Lately Printed Books, by That Learned Mathematician Mr. Jacob Gregory, a Fellow of the R. Society 	Jacob 	Gregory 
+10.2307_101277.xml	1668 	eng 	An Enlargement of the Observations, Formerly Publisht Numb. 27, Made and Generously Imparted by That Learn'd and Inquisitive Physitian, Dr. Stubbes 		
+10.2307_101278.xml	1668 	eng 	An Extract of a Printed Letter, Addressed to the Publisher, by M. Jean Denis, D. of Physick, and Prof. of the Mathematicks at Paris, Touching the Differences Risen about the Transfusion of Bloud 	M. Jean 	Denis 
+10.2307_101279.xml	1668 	eng 	An Account of Two Books 	Abrahami Coulei 	Ancli 
+10.2307_101280.xml	1668 	eng 	Errata 		
+10.2307_101281.xml	1668 	eng 	The Remainder of the Observations Made in the Formerly Mention'd Voyage to Jamaica, Publisht Numb. 36 		
+10.2307_101282.xml	1668 	eng 	A Curious and Exact Relation of a Sand-Floud, Which Hath Lately Overwhelmed a Great Tract of Land in the County of Suffolk; Together with an Account of the Check in Part Given to It; Communicated in an Obliging Letter to the Publisher, by That Worthy Gentleman Thomas Wright Esquire, Living upon the Place, and a Sufferer by That Deluge 	Thomas 	Wright 
+10.2307_101283.xml	1668 	eng 	An Extract of a Letter, Written by D. B. to the Publisher, Concerning the Present Declination of the Magnetick Needle, and the Tydes, May 23. 1668 		
+10.2307_101284.xml	1668 	eng 	Two Extracts of Letters, Concerning an Opticall Experiment, Conducive to a Decay'd Sight, Together with Some Notes, Referring to the Observations about a Blemish in Horse-Eyes, Publisht Numb. 32. A Remarque Touching the Greater 		
+10.2307_101285.xml	1668 	eng 	Of the Antiquity of the Transfusion of Bloud from One Animal to Another 		
+10.2307_101286.xml	1668 	lat 	Mr. Gregories Answer to the Animadversions of Mr. Hugenius upon His Book, de Vera Circuli & Hyperbolae Quadratura; As They Were Publish'd in the Journal des Scavans of July 2. 1668 		
+10.2307_101287.xml	1668 	eng 	An Account of Some Books 	M F. Stephano Michaelis Angeli De 	de Cordemoy de Angelis Ricci Salnove 
+10.2307_101288.xml	1668 	eng 	A Contrivance to Make the Picture of Any Thing Appear on a Wall, Cub-Board, or within a Picture-Frame, &c. in the Midst of a Light Room in the Day-Time; Or in the Night-Time in Any Room That is Enlightned with a Considerable Number of Candles; Devised and Communicated by the Ingenious Mr. Hook, as Follows 		
+10.2307_101289.xml	1668 	eng 	An Extract of a Letter Lately Written by Mr. S. Colepresse, from Leiden, to the Publisher, about the Making of Counterfeited Opal, and the Recovery of the Art of Making Red-Glass 	S. 	Colepresse 
+10.2307_101290.xml	1668 	lat 	Some Animadversions, Written in a Letter by Dr. John Wallis, on a Printed Paper, Entitul'd Responsio Francisci du Laurens ad Epistolam D. Wallisii ad Cl. V. Oldenburgium Scriptam 	John 	Wallis 
+10.2307_101291.xml	1668 	lat 	An Account of Two Books 	R. I. 	de Graaf Wallis 
+10.2307_101292.xml	1668 	eng 	Errata 		
+10.2307_101293.xml	1668 	eng 	A Note, Relating to the Formerly Publisht Narrative about Empty Tubes, Serving for a Decay'd Sight; Imparted by the Same Author in a Letter of August 10. 1668 		
+10.2307_101294.xml	1668 	eng 	An Extract of a Letter, Written from Dantzick to the Honourable R. Boyle, Containing the Success of Some Experiments of Infusing Medicines into Humane Veines 		
+10.2307_101295.xml	1668 	eng 	Additional Answers to the Queries of Mines 		
+10.2307_101296.xml	1668 	eng 	Extracts of Two Letters; Whereof the One Written from Franckford on the Oder Concerning Osteocolla, and Some Other Observables in Those Parts: The Other Written by an Ingenious Person in England, about Some Effects of Antimony 	Johannes Christophorus 	Beckman 
+10.2307_101297.xml	1668 	lat 	A Second Letter of Dr. John Wallis on the Same Printed Paper of Francisus Du Laurens, Mention'd in the Next Foregoing Transactions 	John 	Wallis 
+10.2307_101298.xml	1668 	eng 	An Account of Some Books 	Olai Roland J. Monsieur 	Borrichii Freart Evelyn Cordemoy 
+10.2307_101299.xml	1668 	eng 	Errata 		
+10.2307_101300.xml	1668 	eng 	The Variations of the Magnetick Needle Predicted for Many Yeares Following 		
+10.2307_101301.xml	1668 	eng 	Extracts of Three Letters; One, Lately written by Monsieur De Bills, Touching the True Use of the Lymphatick Vessels; The Second, written by Mr. Stafford from the Bermudas, Concerning Tydes, Whales, Spermaceti, Strange Spiders-Webbs; Some Vegetables, and the Longevity of the Inhabitants of That Island; The Third, Written from Paris, about the Polishing of Telescopical Glasses by a Turn-Lathe; As Also the Making of an Extraordinary Burning-Glass at Milan 	Louys Richard 	de Bills Stafford 
+10.2307_101302.xml	1668 	eng 	Observations Concerning Cochineel, Accompanied with Some Suggestions for Finding out and Preparing Such like Substances Out of Other Vegetables 		
+10.2307_101303.xml	1668 	eng 	Queries Concerning Vegetation, Especially the Motion of the Juyces of Vegetables, Communicated by Some Curious Persons 		
+10.2307_101304.xml	1668 	eng 	A Suggestion for Taking More Notice, Than Hath Been Done Formerly, of the Juyces of Trees, by Tapping Them 		
+10.2307_101305.xml	1668 	eng 	A Note about the Small Empty Tubes, Formerly Described 		
+10.2307_101306.xml	1668 	eng 	An Extract of a Letter, Written by Dr. Nathan. Fairfax to the Publisher, about a Bullet Voided by Urine 	Nathan 	Fairfax 
+10.2307_101307.xml	1668 	eng 	An Account of Some Books 	Renati Des 	Cartes 
+10.2307_101308.xml	1668 	eng 	Errata 		
+10.2307_101309.xml	1668 	eng 	An Account of Some Observations, Made This Present Year by Capt. Samuel Sturmy in Hong-Road within Four Miles of Bristol, in Answer to Some of the Queries Concerning the Tydes, in No. 17 & No. 18 	Samuel 	Sturmy 
+10.2307_101310.xml	1668 	eng 	En Extract of a Narrative, Made by an Ingenious English Gentleman, Now Residing at Sevill, Concerning His Voyage from Spain to Mexico, and of the Minerals of That Kingdom 		
+10.2307_101311.xml	1668 	eng 	An Account of Some Particulars, Referring to Those of Jamaica, Numb. 27. and 36, Communicated by Mr. Norwood the Younger, an Eye-Witness 		
+10.2307_101312.xml	1668 	lat 	A Continuation of Dr. Wallis His Second Letter, Publish't in Numb. 39, to the Printed Paper of Mr. Du Laurens 		
+10.2307_101313.xml	1668 	eng 	An Account of Two Books 		
+10.2307_101314.xml	1668 	eng 	The Description of a Way, Said to be New and Universal for Working Convex Spherical Glasses upon a Plain, for All Practicable Lengths, without Other Dishes or Concavc Moulds 		
+10.2307_101315.xml	1668 	eng 	Two Extracts out of the Italian Giornale de Letterati; The One, about Two Experiments of the Transfusion of Blood, made in Italy, the Other, Concerning a Microscope of a New Fashion, Discovering Animals Lesser Than Any Seen Hitherto 	Giornale 	de Letterati 
+10.2307_101316.xml	1668 	lat 	Testis Examinatus 	Vadlius Dathirius 	Bonglarus 
+10.2307_101317.xml	1668 	eng 	An Account of Two Books 	Robert W. 	Boyle Sympson 
+10.2307_101318.xml	1668 	eng 	Errata 		
+10.2307_101319.xml	1668 	eng 	Some Communications, Relating to the Queries about Vegetation, Publish'd in Numb. 40 of These Tracts 		
+10.2307_101320.xml	1668 	eng 	Answers To Some of the Queries, Which Were Recommended by Sir R. Moray to Sir Phil. Vernatti, President in Java Major, were Lift Un-Answered of Those That are Found in the History of the R. Society, p. 158, &c 	R. 	Moray 
+10.2307_101321.xml	1668 	lat 	A Summary Account of the General Laws of Motion by Dr. John Wallis, and Dr. Christopher Wren. 	John Christopher 	Wallis Wren 
+10.2307_101322.xml	1668 	eng 	An Account of Two Books 		
+10.2307_101323.xml	1668 	eng 	Errata 		
+10.2307_101324.xml	1668 	eng 	A Continuation of the Answers to the Queries about Vegetation, Formerly Publisht 		
+10.2307_101325.xml	1668 	eng 	Additional Answers of Dr. Tonge to Some of the Queries about Vegetables, Printed in Numb. 43 		
+10.2307_101326.xml	1668 	lat 	An Extract of a Letter of Mr. James Gregory to the Publisher, Containing Some Considerations of His, upon M. Hugens His Letter, Printed in Vindication of His Examen of the Book, Entitled Vera Circuli & Hyperbola Quadratura 	James 	Gregory 
+10.2307_101327.xml	1668 	eng 	An Extract of the Anatomical Account, Written and Left by the Famous Dr. Harvey, Concerning Thomas Parre, Who Died in London at the Age of 152 Years and 9 Moneths 		
+10.2307_101328.xml	1668 	eng 	An Account of Two Books 	Marcelli 	Malpighii 
+10.2307_101329.xml	1668 	eng 	Errata 		
+10.2307_101330.xml	1668 	eng 	Back Matter 		
+10.2307_101331.xml	1673 	eng 	Front Matter 		
+10.2307_101332.xml	1673 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_101333.xml	1673 	eng 	The Preface 		
+10.2307_101334.xml	1673 	eng 	A Discovery of Two New Planets about Saturn, Made in the Royal Parisian Observatory by Signor Cassini, Fellow of Both the Royal Societys, of England and France; English't Out of French 	Signor 	Cassini 
+10.2307_101335.xml	1673 	eng 	An Extract of a Letter, Written by David Von Der Becke, a German Philosopher and Physitian at Minden, to Doctor Langelott, Chief Physitian to His Highness the Duke of Holstein Now Regent, Concerning the Principles and Causes of the Volatilifation of Salt of Tartar and Other Fixed Salts: Printed at Hamburg, 1672 	David 	von der Becke 
+10.2307_101336.xml	1673 	eng 	Some Observations Touching the Nature of Snow, Presented to the R. Society by Dr. Nehemiah Grew 	Nehemiah 	Grew 
+10.2307_101337.xml	1673 	eng 	A Confirmation, Given by Dr. Wallis, of what Was Deliver'd in Numb. 90. about the Strange Freezing in Somersetshire 		
+10.2307_101338.xml	1673 	eng 	An Accompt of Two Books 	Robert Francesco 	Boyle Redi 
+10.2307_101339.xml	1673 	eng 	Errata 		
+10.2307_101340.xml	1673 	eng 	An Accurate Description of the Cacao-Tree, and the Way of It's Curing and Husbandry, & C; Given by an Intelligent Person Now Residing in Jamaica 		
+10.2307_101341.xml	1673 	eng 	Directions for Inquiries Concerning Stones and Other Materiale for the Use of Building; together with a Suggestion for Retriving the Art of Hardning and Tempering Steel for Cutting Porphyre and Other Hard Marbles 		
+10.2307_101342.xml	1673 	eng 	An Account of the Advantage of Virginia for Building Ships; Communicated by an Observing Gentleman 		
+10.2307_101343.xml	1673 	eng 	A Way of Making Vines Grow to Advantage, all Over the Roof of a House; Communicated by Mr. John Templer 	John 	Templer 
+10.2307_101344.xml	1673 	eng 	An Observation, Made by the Same Mr. Templer upon the Motion of the Hearts of Two Urchius, after Their Being Cut Out 	John 	Templer 
+10.2307_101345.xml	1673 	eng 	An Accompt of Two Books 		
+10.2307_101346.xml	1673 	lat 	Nobilissimi Cujusdam Angli Demonstratio Synchronismi Vibrationum Peractarum in Cycloide; Nunc Juris Publici Facta ex Occasione Quam Suppeditavit Rev. P. Pardies, De eodem Argumento Demonstrationem Exhibens Ad Calcem Libelli Nuper ab Ipso Gallice Editi de Statica, Inferius a Nobis Commemorandi 		
+10.2307_101347.xml	1673 	lat 	An Extract of Mr. Flamsteads Letter of April. 19. 1673. Containing Some More Accurate Observations of His Own, about Jupiter's Transets Near Some Fixed Stars; Useful for Determining the Inclination of That Planet to the Ecliptique 		
+10.2307_101348.xml	1673 	eng 	A Specimen of Some Observations Made by a Microscope, Contrived by M. Leewenhoeck in Holland, Lately Communicated by Dr. Regnerus de Graaf 	M. Regnerus 	Leewenhoeck de Graaf 
+10.2307_101349.xml	1673 	eng 	Extract of a Letter, Written to the Publisher by M. Denys from Paris, May 1. 1673; Giving Notice of an Admirable Liquor, Instantly Stopping the Blood of Arteries Prickt or Cut, without Any Suppuration, or without Leaving Any Scar or Cicatrice 	M. 	Denys 
+10.2307_101350.xml	1673 	eng 	A Description of the Uses of a Certain Powder for Yielding Very Smooth and Close Mettal, and of Easter Carriage, &c 		
+10.2307_101351.xml	1673 	lat 	Extracts of Two Letters of Dr. Swammerdam, Concerning Some Animals, That Having Lungs are Yet Found to be without the Arterious Vein; together with Some Other Curious Particulars 		
+10.2307_101352.xml	1673 	eng 	An Accompt of Some Books 	J. S. 	Martyn Moreland 
+10.2307_101353.xml	1673 	eng 	Errata 		
+10.2307_101354.xml	1673 	eng 	Experimens of a Present and Safe way of Staunching by a Liquor the Blood of Arteries as Well as Veins; Made Both in London and Paris 	Monsieur 	Denis 
+10.2307_101355.xml	1673 	lat 	Illustrissimi Slusiii Modus, Quo Demonstrat Methodum Suam Ducendi Tangentes ad Quaslibet Curvas Absq Calculo, Antehac Traditam in Horum Actorum No. 90 		
+10.2307_101356.xml	1673 	eng 	A Note of Dr. Wallis Sent in a Letter of Febr. 17. 167<sub>2</sub><sup>1</sup>, upon Mr. Listers Observation Concerning the Veins in Plans, Pubish't in Numb. 90. of these Tracts 		
+10.2307_101357.xml	1673 	eng 	A Letter of Mr Lister Dated May 21. 1673. in York, Partly Taking Notice of the Foregoing Intimations, Partly Communicating Some Anatomical Observations and Experiments Concerning the Unalterable Character of the Whiteness of the Chyle within the Lacteous Veins; together with Divers Particulars Observed in the Guis, Especially Several Fonts of Worms Found in Them 	Mr 	Lister 
+10.2307_101358.xml	1673 	eng 	The Undertakings of Mr. Henry Bond Senior, a Famous Teacher of the Art of Navigation in London, Concerning the Variation of the Variation of the Magnetical Compass and the Inclination of the Inclinatory Needle; as the Result and Conclusion of 38. Years Magnetical Study 	Henry 	Bond 
+10.2307_101359.xml	1673 	eng 	An Extract of a Letter Written by Mr. John Templer June 16. 1673. Containing Some Observations upon a Pleasant Way of Catching Carps 	John 	Templer 
+10.2307_101360.xml	1673 	eng 	An Easy Way of Raising Fruit-Trees to what Numbers Any Desires; Communicated to the Publisher, by Mr. Lewis of Totnam High-Cross 		
+10.2307_101361.xml	1673 	eng 	An Accompt of Some Books 	Hugemii Jonas John 	Zulichemii Moor Kersey 
+10.2307_101362.xml	1673 	eng 	Errata 		
+10.2307_101363.xml	1673 	eng 	A Description of a Bee· House, Useful for Preventing the Swarming of Bees, Used in Scotland with Good Success; Whereof One, Sent by a Worthy Gentleman, Sir William Thomson,May be Seen in Gresham Colledg 	William 	Thomson 
+10.2307_101364.xml	1673 	eng 	An Account of the Experiments Promifed at the End of the Next Precedent Transactions, Concerning the Wonderful Effects of the Blood-Staunching Liquor upon a Man and a Woman in St. Thomas's Hospital in South-Wark London 		
+10.2307_101365.xml	1673 	lat 	Parallelogrammum Prosopographicum Sive Modus Novus Delineandi per Radios Parallelos ad Aequalitatem Orthogrophicam, Gestus, Situs, Habitusque Quoscunque Humani Corporis, Servata Symmetria,& Proportione Partium. Autore Ioanne de Sancto-Claro Scoto-Lothiano 		
+10.2307_101366.xml	1673 	eng 	An Extract of a Letter Lately Written by an Ingenious Person from Paris, Containing Some Considerations upon Mr. Newtons Doctrine of Colors, as Also upon the Effects of the Different Refractions of the Rays in Telescopical Glasses 		
+10.2307_101367.xml	1673 	eng 	Mr. Newtons Answer to the Foregoing Letter Further Explaining His Theory of Light and Colors, and Particularly That of Whiteness; together with His Continued Hopes of Perfecting Telescopes by Reflections Rather than Refractions 		
+10.2307_101368.xml	1673 	eng 	A Relation from Dantzick, of an Uncommon Case in Physick; and another from the Same Place, about an Odd Effect of Thunder and Lightning upon Wheat and Rye in the Granaries of that City 	Christ 	Kirkby 
+10.2307_101369.xml	1673 	lat 	Johannis Flamstedii Derbiensis Angli, A D Clarissimum Cassinum Epistola, Novas Observationes Extimarum Elongationum Siderum Medicaeorum a Centro Jovis, Nova sed & Accurata Ratione Habitas, Exhibens; Adjectis Quibusdam Observationibus Non-Vulgaribus, Planetarum Diametros & a Fixis Distantias, Nec non Martis Acronici & Perigei Parallaxin &c Spectantibus 	Johannes 	Flamstedius 
+10.2307_101370.xml	1673 	eng 	An Account of a Book 	Robert 	Boyle 
+10.2307_101371.xml	1673 	eng 	Advertisment 		
+10.2307_101372.xml	1673 	eng 	Errata 		
+10.2307_101373.xml	1673 	eng 	Extracts of Two Letters, the One of Mr. Newton, Concerning the Number of Colors, and the Necessity of Mixing Them All for the Production of White, &c; the Other, of a Philosopher at Paris, by Way of Answer to the Former 	Isaac 	Newton 
+10.2307_101374.xml	1673 	eng 	A Letter of the Honorable Robert Boyle Concerning the Vegetable Nature of Amber Greece, according to an Extract Taken Out of a Dutch East Indian Journal 	Robert 	Boyle 
+10.2307_101375.xml	1673 	eng 	A Letter to the Publisher Written by One of the Principal Chirurgions of His Majesties Fleet, Concerning the Further Success of the Blood-Stanching Liquor, Formerly Taken Notice of 		
+10.2307_101376.xml	1673 	eng 	The Figures of Some of Mr. Leewenhoecks Microscopical Observations, Formerly Publish't (in Numb.94. p. 6037.6038.) together with Their Explication 		
+10.2307_101377.xml	1673 	lat 	Excerpta ex Epistolis Non-Nullis, Ultro Citroque ab Illustrissimis Viris, Slusio & Hugenio, ad Editorem Scriptis, de Famigerato Alhazeni Problemate Circa Punctum Reflexionis in Speculis Cavis aut Convexis; & Primo Quidem ex Prima Hugenii, 26 Funii 1669. Scripta 		
+10.2307_101378.xml	1673 	eng 	An Account of Four Books 	R. T. H. Nehemiah Thomse 	Boyle Malmesburiensi Grew Bartholini 
+10.2307_101379.xml	1673 	eng 	Errata 		
+10.2307_101380.xml	1673 	eng 	An Account of the Current of the Tydes about the Orcades, Given in by a Gentleman of Scotland Who Had Pass'd Himself That Way, and from Him Communicated to the Publisher by the Truly Honourable Sir Robert Moray Knight, Deceased, Lately One of the Vice. Presidents of the R. Society, of Which he Had Been President Formerly 	Robert Moray 	Knight 
+10.2307_101381.xml	1673 	lat 	Continuatio Excerptorum ex Epistolis Slusianis & Hugenianis, Super Alhazeni Problemate Optico, in Aitis is Philosophicis Proxime Pragressis Commemorato 	Slusianis 	Hugenianis 
+10.2307_101382.xml	1673 	lat 	Epistola Doct. Johannis Wallisii, Primam Inventionem & Demonstrationem Aequalitatis Lineae Curvae Paraboloidis cum Recta, Anno 1657. Factam, Dn. Guilielmo Neile p. m. Afferens; Proximeque Dn. Christophoro Wren Equiti, Inventionem Lineae Rectae Aequalis Cycloidi Ejufque Partibus, Anno 1658 	Johannis 	Wallisii 
+10.2307_101383.xml	1673 	eng 	Two Other Letters, Consonant to the Former; One of the Lord Vis-Count Brouncker; the Other, of the Said Sir Ch. Wren 	Vis-Count Christopher 	Brouncker Wren 
+10.2307_101384.xml	1673 	eng 	An Accompt of a Book 	Johanne Baptista 	Du Hamel 
+10.2307_101385.xml	1673 	eng 	Errata 		
+10.2307_101386.xml	1673 	eng 	An Extract of a Letter Written by Mr. Christ. Kirkby the 4th of Nov. 1673 from Dantzick, Giving an Account of an Humane Body Open'd, and of 38 Stones Found in the Bladder Thereof, & c. 	Christ Casparus 	Kirkby Wendland 
+10.2307_101387.xml	1673 	eng 	An Extract of a Letter, Written by Monsieur Denys Novemb. 17. Last from Paris Concerning an Odd Faetus Lately Born there; English't Out of French 	Monsieur 	Denys 
+10.2307_101388.xml	1673 	eng 	An Account of Some of the Natural Things, with Which the Intelligent and Inquisitive Signor Paulo Boccone, of Sicily, Hath Lately Presented the Royal Society, and Enriched Their Repository 	Paulo 	Boccone 
+10.2307_101389.xml	1673 	lat 	Lunae ad Fixas Appulsus, Derbiae Anno 1674. Observabiles, ab Ephemeride Doctislimi D. Heckeri Deducti, & Brevibus Notis Descriptia J. Flamstead 	J. 	Flamstead 
+10.2307_101390.xml	1673 	eng 	An Account of Some Books 	Johannis N. Antonio 	Hevelii Fairfax Eygel 
+10.2307_101391.xml	1673 	eng 	Errata 		
+10.2307_101392.xml	1673 	eng 	An Account of Two Uncommon Mineral Substances, Found in Some Coal and Iron-Mines of England; as It Was Given by the Intelligent and Learned Mr. Jessop of Bromhal in York-Shire to the Ingenious Mr. Lister, and by Him Communicated to the Publisher in a Letter of January 7. 1673/74 		
+10.2307_101393.xml	1673 	eng 	A Description of Certain Stones Figured Like Plants, and by Some Observing Men Esteemed to be Plants Petrified: Communicated to the Publisher By the Same Mr. Lister, from York Novemb. 4th. 1673 		
+10.2307_101394.xml	1673 	eng 	A Farther Description and Representation of the Icy Mountain, Called the Gletscher, in the Canton of Berne in Helvetia; Which Was Formerly Taken Notice of in Numb. 49. of these Tracts 		
+10.2307_101395.xml	1673 	eng 	A Letter Written to the Publisher Concerning a New Way, by an English Manufacture to Preserve the Hulls of Ships from the Worm, &c; Better for Sailing and More Cheap and Durable than Any Sheathing or Graving Hitherto Used 	John 	Bulteel 
+10.2307_101396.xml	1673 	eng 	An Account of two Books 	Georgii 	Wedelii 
+10.2307_101397.xml	1673 	eng 	An Advertisement 		
+10.2307_101398.xml	1665 	eng 	Front Matter 		
+10.2307_101399.xml	1665 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_101400.xml	1665 	eng 	The Introduction 		
+10.2307_101401.xml	1665 	eng 	An Accompt of the Improvement of Optick Glasses 		
+10.2307_101402.xml	1665 	eng 	A Spot in One of the Belts of Jupiter 		
+10.2307_101403.xml	1665 	eng 	The Motion of the Late Comet Praedicted 		
+10.2307_101404.xml	1665 	eng 	An Experimental History of Cold 		
+10.2307_101405.xml	1665 	eng 	An Account of a Very Odd Monstrous Calf 	Robert 	Boyle 
+10.2307_101406.xml	1665 	eng 	Of a Peculiar Lead-Ore of Germany, and the Use Thereof 		
+10.2307_101407.xml	1665 	eng 	Of an Hungarian Bolus, of the Same Effect with the Bolus Armenus 		
+10.2307_101408.xml	1665 	eng 	Of the New American Whale-Fishing about the Bermudas 		
+10.2307_101409.xml	1665 	eng 	A Narrative Concerning the Success of Pendulum-Watches at Sea for the Longitudes 		
+10.2307_101410.xml	1665 	eng 	The Character, Lately Published beyond the Seas, of an Eminent Person, not Long Since Dead at Tholouse, Where He Was a Councellor of Parliament 		
+10.2307_101411.xml	1665 	eng 	Extract of a Letter, Lately Written from Rome, Touching the Late Comet, and a New One 		
+10.2307_101412.xml	1665 	eng 	Extract of a Letter, Written from Paris, Containing Some Reflections on Part of the Precedent Roman Letter 		
+10.2307_101413.xml	1665 	eng 	An Observation Imparted to the Noble Mr. Boyle, by Mr. David Thomas, Touching Some Particulars Further Considerable in the Monster Mentioned in the First Papers of These Philosophical Transactions 	David 	Thomas 
+10.2307_101414.xml	1665 	eng 	Extract of a Letter, Lately Written from Venice, by the Learned Doctor Walter Pope, to the Reverend Dean of Rippon, Doctor John Wilkins, Concerning the Mines of Mercury in Friuli; And a Way of Producing Wind by the Fall of Water 	Walter 	Pope 
+10.2307_101415.xml	1665 	eng 	An Extract of a Letter Containing Some Observations, Made in the Ordering of Silk-Worms, Communicated by That Known Vertuoso, Mr. Dudley Palmer, from the Ingenuous Mr. Edward Digges 	Dudley Edward 	Palmer Digges 
+10.2307_101416.xml	1665 	eng 	An Account of Micrographia,or the Physiological Descriptions of Minute Bodies, Made by Magnifying Glasses 		
+10.2307_101417.xml	1665 	eng 	Some Observations and Experiments upon May-Dew 		
+10.2307_101418.xml	1665 	eng 	The Motion of the Second Comet Predicted, by the Same Gentleman, Who Predicted That of the Former 		
+10.2307_101419.xml	1665 	eng 	A Relation of the Advice Given by Monsieur Petit, Intendant of the Fortifications of Normandy. Touching the Conjunction of the Ocean and Mediterranean 	Monsieur 	Petit 
+10.2307_101420.xml	1665 	eng 	Of A Way of Killing Ratle-Snakes 		
+10.2307_101421.xml	1665 	eng 	A Relation of Persons Killed with Subterraneous Damps 		
+10.2307_101422.xml	1665 	eng 	Of the Mineral of Liege, Yielding Both Brimstone and Vitriol, and the Way of Extracting Them Out of It, Used at Liege 		
+10.2307_101423.xml	1665 	eng 	A Further Account of Mr. Boyle's Experimental History of Cold 		
+10.2307_101424.xml	1665 	eng 	A Relation of Some Extraordinary Tydes in the West-Isles of Scotland, as It Was Communicated by Sr. Robert Moray 	Robert 	Moray 
+10.2307_101425.xml	1665 	eng 	Monsieur Auzout's Judgment Touching the Apertures of Object-Glasses, and Their Proportions, in Respect of the Several Lengths of Telescopes 	Monsieur 	Auzout 
+10.2307_101426.xml	1665 	eng 	Considerations of Monsieur Auzout upon Mr. Hook's New Instrument for Grinding of Optick-Glasses 	Monsieur 	Auzout 
+10.2307_101427.xml	1665 	eng 	Mr. Hook's Answer to Monsieur Auzout's Considerations, in a Letter to the Publisher of These Transactions 		
+10.2307_101428.xml	1665 	eng 	Of a Means to Illuminate an Object in What Proportion One Pleaseth; And of the Distances Requisite to Burn Bodies by the Sun 		
+10.2307_101429.xml	1665 	eng 	A Further Account,Touching Signor Campani's Book and Performances about Optick-Glasses 		
+10.2307_101430.xml	1665 	eng 	Signor Campani's Answer: And Monsieur Auzout's Animadversions Thereon 	Signor 	Campani 
+10.2307_101431.xml	1665 	eng 	An Account of Mr. Richard Lower's Newly Published Vindication of Doctor Willis's Diatriba de Febribus 	Richard 	Lower 
+10.2307_101432.xml	1665 	eng 	A Note Touching a Relation, Inserted in the Last Transactions 		
+10.2307_101433.xml	1665 	eng 	Errata 		
+10.2307_101434.xml	1665 	eng 	An Account, How Adits & Mines are Wrought at Liege without Air-Shafts, Communicated by Sir Robert Moray 	Robert 	Moray 
+10.2307_101435.xml	1665 	eng 	A Way to Break Easily and Speedily the Hardest Rocks, Communicated by the Same Person, as He Received It from Monsieur Du Son, the Inventor 	Robert Monsieur 	Moray Du Son 
+10.2307_101436.xml	1665 	eng 	Observables upon a Monstrous Head 		
+10.2307_101437.xml	1665 	eng 	Observables in the Body of the Earl of Balcarres 		
+10.2307_101438.xml	1665 	eng 	Of the Designed Progress to be Made in the Breeding of Silkworms, and the Making of Silk, in France 		
+10.2307_101439.xml	1665 	eng 	Enquiries Concerning Agriculture 		
+10.2307_101440.xml	1665 	eng 	Advertisement 		
+10.2307_101441.xml	1665 	eng 	An Account of a Not Ordinary Burning Concave, Lately Made at Lyons, and Compared with Several Others Made Formerly 		
+10.2307_101442.xml	1665 	eng 	Of Monsieur Hevelius's Promise of Imparting to the World His Invention of Making Optick Glasses; And of the Hopes Given by Monsieur Hugens of Zulichem, to Perform Something of the like Nature; As Also of the Expectations, Conceived of Some Ingenious Persons in England, to Improve Telescopes 	Monsieur Monsieur 	Hevelius Hugens 
+10.2307_101443.xml	1665 	eng 	An Advertisement of a Way of Making More Lively Counterfaits of Nature in Wax, Then are Extant in Painting: And of a New Kinde of Maps in a Low Relievo; Both Practised in France 		
+10.2307_101444.xml	1665 	eng 	Some Anatomical Observations of Milk Found in Veins, Instead of Blood; And of Grass, Found in the Wind-Pipes of Some Animals 		
+10.2307_101445.xml	1665 	eng 	Of a Place in England, Where, without Petrifying Water, Wood is Turned into Stone 		
+10.2307_101446.xml	1665 	eng 	Of the Nature of a Certain Stone, Found in the Indies, in the Head of a Serpent 		
+10.2307_101447.xml	1665 	eng 	Of the Way, Used in the Mogol's Dominions, to Make Saltpetre 		
+10.2307_101448.xml	1665 	eng 	An Account of Hevelius His Prodromus Cometicus, Together with Some Animadversions Made upon It by a French Philosopher 		
+10.2307_101449.xml	1665 	eng 	Note 		
+10.2307_101450.xml	1665 	eng 	Of Monsieur de Sons Progress in Working Parabolar Glasses 	Monsieur 	de Sons 
+10.2307_101451.xml	1665 	eng 	Monsieur Auzout's Speculations of the Changes, Likely to be Discovered in the Earth and Moon, by Their Respective Inhabitants 	Monsieur 	Auzout 
+10.2307_101452.xml	1665 	eng 	The Instance of the Same Person to Mr. Hook, for Communicating His Contrivance of Making, with a Glass of a Sphere of 20 or 40 Foot Diameter, a Telescope Drawing Several Hundred Foot; And His Offer of Recompensing That Secret with Another, Teaching To Measure with a Telescope the Distances of Objects upon the Earth 	Monsieur 	Auzout 
+10.2307_101453.xml	1665 	eng 	An Experiment of a Way of Preparing a Liquor, That Shall Sink into, and Colour the Whole Body of Marble, Causing a Picture, Drawn on a Surface, to Appear Also in the Inmost Parts of the Stone 		
+10.2307_101454.xml	1665 	eng 	An Intimation of a Way, Found in Europe to Make China-Dishes 		
+10.2307_101455.xml	1665 	eng 	An Account of an Odd Spring in Westphalia, Together with an Information Touching Salt-Springs and the Straining of Salt-Water 		
+10.2307_101456.xml	1665 	eng 	An Account of the Rise and Attempts, of a Way to Conveigh Liquors Immediately into the Mass of Blood 		
+10.2307_101457.xml	1665 	eng 	An Account of the Tryalls, Made in Italy of Campani's New Optick Glasses 		
+10.2307_101458.xml	1665 	eng 	A Further Relation of the Whale-Fishing about the Bermudas, and on the Coast of New-England and New-Netherland 		
+10.2307_101459.xml	1665 	eng 	Of a Remarkable Spring, about Paderborn in Germany 		
+10.2307_101460.xml	1665 	eng 	Of Some Other Not-Common Springs at Basel and in Alsatia 		
+10.2307_101461.xml	1665 	eng 	Of the Richest Salt-Springs in Germany 		
+10.2307_101462.xml	1665 	eng 	Some Observations of Swarms of Strange Insects, and the Mischiefs Done by Them 		
+10.2307_101463.xml	1665 	eng 	Some Observations of Odde Constitutions of Bodies 		
+10.2307_101464.xml	1665 	eng 	A Way of Preserving Ice and Snow by Chaffe 		
+10.2307_101465.xml	1665 	eng 	Directions for Sea-Men, Bound for Far Voyages 		
+10.2307_101466.xml	1665 	eng 	Some Observations Concerning Jupiter. Of the Shadow of One of His Satellites Seen, by a Telescope Passing Over the Body of Jupiter 		
+10.2307_101467.xml	1665 	eng 	Of Some Philosophical and Curious Books, That are Shortly to Come Abroad 		
+10.2307_101468.xml	1665 	eng 	An Appendix to the Directions for Seamen, Bound for Far Voyages 		
+10.2307_101469.xml	1665 	eng 	Of the Judgement of Some of the English Astronomers, Touching the Difference between Two Learned Men, about an Observation Made of the First of the Two Late Comets 		
+10.2307_101470.xml	1665 	eng 	Of a Correspondency,to be Procured,for the Finding Out the True Distance of the Sun and Moon from the Earth,by the Paralax,Observed under (or Neer) the Same Meridian 		
+10.2307_101471.xml	1665 	eng 	Of an Observation, not Long Since Made in England, of Saturn 	William 	Ball 
+10.2307_101472.xml	1665 	eng 	A Relation of Some Mercurial Observations, and Their Results 		
+10.2307_101473.xml	1665 	eng 	Some Observations of Vipers 	Francesco 	Redi 
+10.2307_101474.xml	1665 	eng 	Advertisement 		
+10.2307_101475.xml	1665 	eng 	Observations Continued upon the Barometer, or Rather Ballance of the Air 		
+10.2307_101476.xml	1665 	eng 	A Relation Concerning the Late Earthquake Neer Oxford; Together with Some Observations of the Sealed Weatherglass, and the Barometer Both upon That Phaenomenon, and in General 		
+10.2307_101477.xml	1665 	eng 	A More Particular Account of Those Observations about Jupiter, That Were Mentioned in Numb. 8 		
+10.2307_101478.xml	1665 	eng 	An Account of Some Books, Lately Published 	Robert Nicolai Regneri 	Boyle Stenonis de Graeff 
+10.2307_101479.xml	1665 	eng 	A Confirmation of the Former Account Touching the Late Earth-Quake Near Oxford,and the Concomitants Thereof 		
+10.2307_101480.xml	1665 	eng 	Some Observations and Directions about the Barometer, Communicated by the Same Hand, to the Author of This Tract 		
+10.2307_101481.xml	1665 	eng 	General Heads for a Natural History of a Countrey, Great or Small, Imparted Likewise by Mr. Boyle 		
+10.2307_101482.xml	1665 	eng 	An Extract of a Letter, Written from Holland, about Preserving of Ships from Being Worm-Eaten 		
+10.2307_101483.xml	1665 	eng 	An Account of a Book, Very Lately Published 	Robert 	Boyle 
+10.2307_101484.xml	1665 	eng 	Some New Observations about the Planet Mars, Communicated Since the Printing of the Former Sheets 		
+10.2307_101485.xml	1665 	eng 	A Way of Preserving Birds Taken Out of the Egge, and Other Small Faetus's; Communicated by Mr. Boyle 		
+10.2307_101486.xml	1665 	eng 	An Extract of a Letter, Sent Lately to Sir Robert Moray Out of Virginia, Concerning an Unusual Way of Propagating Mulberry Trees There, for the Better Improvement of the Silk-Work; Together with Some Other Particulars, Tending to the Good of That Plantation 		
+10.2307_101487.xml	1665 	eng 	A Method, by Which a Glass of a Small Plano-Convex Sphere May be Made to Refract the Rayes of Light to a Focus of a Far Greater Distance, Than is Usual 		
+10.2307_101488.xml	1665 	eng 	Observations about Shining Worms in Oysters 		
+10.2307_101489.xml	1665 	eng 	Some Observations of the Effects of Touch and Friction 		
+10.2307_101490.xml	1665 	eng 	Some Particulars, Communicated from Forraign Parts, Concerning the Permanent Spott in Jupiter; And a Contest between Two Artists about Optick Glasses, &c 		
+10.2307_101491.xml	1665 	eng 	An Account of Book 		
+10.2307_101492.xml	1665 	eng 	Advertisement 		
+10.2307_101493.xml	1665 	eng 	Certain Problems Touching Some Points of Navigation 		
+10.2307_101494.xml	1665 	eng 	A New Contrivance of Wheel-Barometer, Much More Easy to be Prepared, Than That, Which is Described in the Micrography; Imparted by the Author of That Book 		
+10.2307_101495.xml	1665 	eng 	An Account of Four Suns, Which Very Lately Appeard in France, and of Two Raine-Bows, Unusually Posited, Seen in the Same Kingdom, Somewhat Longer Agoe 		
+10.2307_101496.xml	1665 	eng 	A Relation of an Accident by Thunder and Lightning, at Oxford 		
+10.2307_101497.xml	1665 	eng 	An Experiment to Examine, What Figure, and Celerity of Motion Begetteth, or Encreaseth Light and Flame 		
+10.2307_101498.xml	1665 	eng 	Some Considerations Touching a Letter in the Journal des Scavans of May 24. 1666 		
+10.2307_101499.xml	1665 	eng 	An Account of a New Kind of Baroscope, Which May be Called Statical; And of Some Advantages and Conveniencies It Hath above the Mercurial: Communicated, Some While Since, by the Honourable Robert Boyle 	Robert 	Boyle 
+10.2307_101500.xml	1665 	eng 	The Particulars. Of Those Observations of the Planet Mars, Formerly Intimated to Have Been Made at London in the Months of February and March A. 1665/6 		
+10.2307_101501.xml	1665 	eng 	Observations Made in Italy, Confirming the Former, and Withall Fixing the Period of the Revolution of Mars 		
+10.2307_101502.xml	1665 	eng 	Some Observations Lately Made at London Concerning the Planet Jupiter 		
+10.2307_101503.xml	1665 	eng 	A Relation of a Sad Effect of Thunder and Lightning 		
+10.2307_101504.xml	1665 	eng 	Of Some Books Lately Publish't 	Thoma John 	Hobbes Smith 
+10.2307_101505.xml	1665 	eng 	A New Frigorifick Experiment Shewing, How a Considerable Degree of Cold May be Suddenly Produced without the Help of Snow, Ice, Haile, Wind, or Niter, and That at Any Time of the Year 		
+10.2307_101506.xml	1665 	eng 	An Account of Two Books 	John 	Rose 
+10.2307_101507.xml	1665 	eng 	An Essay of Dr. John Wallis, Exhibiting His Hypothesis about the Flux and Reflux of the Sea, Taken from the Consideration of the Common Center of Gravity of the Earth and Moon; Together with an Appendix of the Same, Containing an Answer to Some Objections, Made by Severall Persons against That Hypothesis 	John 	Wallis 
+10.2307_101508.xml	1665 	eng 	An Appendix, Written by Way of Letter to the Publisher; Being an Answer to Some Objections, Made by Several Persons, to the Precedent Discourse 		
+10.2307_101509.xml	1665 	eng 	An Account of a Book 		
+10.2307_101510.xml	1665 	eng 	Observations Made in Several Places, of the Late Eclipse of the Sun, Which Hapned on the 22 of June, 1666 		
+10.2307_101511.xml	1665 	eng 	Some Inquiries and Directions Concerning Tides, Proposed by Dr. Wallis, for the Proving or Disproving of His Lately Publish't Discourse Concerning Them 		
+10.2307_101512.xml	1665 	eng 	Considerations and Enquiries Concerning Tides, by Sir Robert Moray; Likewise for a Further Search into Dr. Wallis's Newly Publish't Hypothesis 	Robert 	Moray 
+10.2307_101513.xml	1665 	eng 	An Account of Several Books 	Johannis Isaacus M. 	Hevelii Vossius de Cordemoy 
+10.2307_101514.xml	1665 	eng 	Advertisement 		
+10.2307_101515.xml	1665 	eng 	Patternes of the Tables Proposed to be Made for Observing of Tides, Promised in the Next Foregoing Transactions; By Sr. Rob. Moray 		
+10.2307_101516.xml	1665 	eng 	Other Inquiries Concerning the Sea 	Robert 	Boyle 
+10.2307_101517.xml	1665 	eng 	Some Considerations Concerning the Parenchymous Parts of the Body 		
+10.2307_101518.xml	1665 	eng 	Observables Touching Petrification 		
+10.2307_101519.xml	1665 	eng 	A Relation of a Kind of Worms, That Eat Out Stones 		
+10.2307_101520.xml	1665 	eng 	Some Promiscuous Observations, Made in Somerset-Shire, and Imparted by the Above-Mention'd Dr. Beale 		
+10.2307_101521.xml	1665 	eng 	A Problem for Finding the Year of the Julian Period by a New and Very Easie Method 		
+10.2307_101522.xml	1665 	eng 	An Account of Some Books 	Samuele Honorati M. 	Parkero Fabri de Bourges 
+10.2307_101523.xml	1665 	eng 	An Addition to the Instances of Petrification, Enumerated in the Last of These Papers 		
+10.2307_101524.xml	1665 	eng 	Articles of Inquiries Touching Mines 		
+10.2307_101525.xml	1665 	eng 	Promiscuous Inquiries, Chiefly about Cold, Formerly Sent and Recommended to Monsieur Heuelius; Together with His Answer Return'd to Some of Them 		
+10.2307_101526.xml	1665 	eng 	The Success of the Experiment of Transfusing the Bloud of One Animal into Another 		
+10.2307_101527.xml	1665 	eng 	Errata 		
+10.2307_101528.xml	1665 	eng 	The Method Observed in Transfusing the Bloud out of One Animal into Another 		
+10.2307_101529.xml	1665 	eng 	An Account of Some Sanative Waters in Herefordshire 		
+10.2307_101530.xml	1665 	eng 	A Farther Accompt of the Vitriolate-Water, Mention'd Num. 18 p. 323. Together with Some Other Particulars Touching Waters 		
+10.2307_101531.xml	1665 	eng 	Inquiries for Turky 		
+10.2307_101532.xml	1665 	eng 	An Observation of Optick Glasses, Made of Rock-Crystal 		
+10.2307_101533.xml	1665 	eng 	An Accompt of the Use of the Grain of Kermes for Coloration 		
+10.2307_101534.xml	1665 	eng 	An Account of Some Books Lately Published 	Christophoro Laurentium 	Merret Bellini 
+10.2307_101535.xml	1665 	eng 	Correction 		
+10.2307_101536.xml	1665 	eng 	Monsieur Hevelius's Calculation of the Late Solar Eclipse's Quantity, Duration, & c c 	Monsieur 	Hevelius 
+10.2307_101537.xml	1665 	eng 	The Figure of the Stars in the Constellation of Cygnus; Together with the New Star in It, Discover'd Some Years Since, and Very Lately Seen by, M. Hevelius Again 	M. 	Hevelius 
+10.2307_101538.xml	1665 	eng 	An Extract of a Letter Written Decemb. 28. 1666. By M. Auzout to the Publisher, Concerning a Way of His, for Taking the Diameters of the Planets, and for Knowing the Parallax of the Moon; as Also the Reason, Why in the Solar Eclipse above Calculated, the Diameter of the Moon Did Increase about the End 	M. 	Auzout 
+10.2307_101539.xml	1665 	eng 	A Relation of the Loss of the Way to Prepare the Bononian Stone for Shining 		
+10.2307_101540.xml	1665 	eng 	A Description of a Swedish Stone, Which Affords Sulphur, Vitriol, Allum, and Minium 		
+10.2307_101541.xml	1665 	eng 	A Relation of the Raining of Ashes, in the Archipelago, upon the Eruption of Mount Vesuvius, Some Years Ago 		
+10.2307_101542.xml	1665 	eng 	An Extract of a Letter not Long Since Written from Rome, Rectifying the Relation of Salamanders Living in Fire 		
+10.2307_101543.xml	1665 	eng 	An Account of Several Engagements for Observing of Tydes 		
+10.2307_101544.xml	1665 	eng 	Some Suggestions for Remedies against Cold 		
+10.2307_101545.xml	1665 	eng 	A Relation of an Uncommon Accident in Two Aged Persons 		
+10.2307_101546.xml	1665 	eng 	An Account of Two Books 	Ismaelis Monsieur 	Bullialdi Felibien 
+10.2307_101547.xml	1665 	eng 	Tryals Proposed by Mr. Boyle to Dr. Lower, to be Made by Him, for the Improvement of Transfusing Blood out of One Live Animal into Another; Promised Numb. 20. p. 357 		
+10.2307_101548.xml	1665 	eng 	A Method for Observing the Eclipses of the Moon, Free from the Common Inconveniencies, as It Was Left by the Learned Mr. Rook, Late Gresham-Professor of Geometry 		
+10.2307_101549.xml	1665 	eng 	An Account of Some Observations, Lately Made in Spain, by His Excellency the Earl of Sandwich 	Earl of 	Sandwich 
+10.2307_101550.xml	1665 	eng 	Extract of a Letter, Lately Written by Mr. Nathaniel Fairfax to the Publisher, Containing Observations about Some Insects, and Their Inoxiousness, &c 	Nathaniel 	Fairfax 
+10.2307_101551.xml	1665 	eng 	An Account of Some Books 	M. Gerardi 	Descartes Blasii 
+10.2307_101552.xml	1665 	eng 	Advertisement 		
+10.2307_101553.xml	1665 	eng 	Note 		
+10.2307_101554.xml	1665 	eng 	Note 		
+10.2307_101555.xml	1665 	eng 	Errata 		
+10.2307_101556.xml	1665 	eng 	Back Matter 		
+10.2307_101557.xml	1670 	eng 	Front Matter 		
+10.2307_101558.xml	1670 	eng 	Epistle Dedicatory 		
+10.2307_101559.xml	1670 	eng 	A Preface To the Sixth Year of these Tracts 		
+10.2307_101560.xml	1670 	eng 	An Extract of a Letter, Written by John Winthrop Esq; Governour of Connecticut in New England, to the Publisher, Concerning Some Natural Curiosities of Those Parts, Especially a Very Strange and Very Curiously Contrived Fish, Sent for the Repository of the R. Society 		
+10.2307_101561.xml	1670 	eng 	The Ingenious Reflexions Relating to Medical Springs Numb. 52, Considered. The Palpable Indications of Some Healing Springs Remarked; With an Account of Some Such Springs in England, Which do Confirm the Indications; And of Others Obiter; By Dr. J. Beale to the Publisher: Which Discourses Were in N. 56. Omitted for Want of Sufficient Room, not without Injury to the Author, Who Had Designed These Communications for Another Prop, Specifying by Manifest Observations, How Terrestrial Steames May be the Generative Cause, Both of Minerals and Metals, and of All the Peculiarities of Springs: And Should Have Immediately Followed p. 1134 		
+10.2307_101562.xml	1670 	eng 	Some Observations, Directions and Inquiries Concerning the Motion of Sap in Trees, in Pursuance of What Was Formerly Begun Therein, about the Latter End of 1668. and the Next Following Spring, by Dr Ezerel Tonge, and Francis Willoughby Esq 		
+10.2307_101563.xml	1670 	lat 	Some Considerations of Mr. Nic. Mercator, Concerning the Geometrick and Direct Method of Signior Cassini for Finding the Apogees, Excentricities, and Anomalies of the Planets; As That was Printed in the Journal des Scavans of Septemb. 2. 1669: Which Considerations are Here Delivered in the Latine Tongue, Wherein they Were Written by the Author, as Chiefly Regarding the Learn'd in Astronomy, viz. Clarissimi Cassini Methodus Investigandi Apogea, Excentricitates & Anomalias Planetarum, Breviter Exposita & Demonstrata 		
+10.2307_101564.xml	1670 	eng 	An Account of Three Books 		
+10.2307_101565.xml	1670 	eng 	An Extract of a Letter Written by Monsieur de Martel of Montauban to the Publisher, Concerning a Way for the Prolongation of Humane Life, together with Some Observations Made in the Southern Parts of France, English'd as Follows 		
+10.2307_101566.xml	1670 	eng 	An Observation of M. Adrian Azout, a French Philosopher, Made in Rome (Where He Now is) about the Beginning of This Year 1670. Concerning the Declination of the Magnet: Out of an Italian Printed Paper, English'd by the Publisher, as Follows 		
+10.2307_101567.xml	1670 	eng 	An Extract of an Italian Letter Written from Venice by Signor Jacomo Grandi, to an Acquaintance of His in London, Concerning Some Anatomical Observations, and Two Odd Births: English'd by the Publisher, as Follows 		
+10.2307_101568.xml	1670 	eng 	Some Directions and Inquiries with Their Answers, Concerning the Mines, Minerals, Baths, &c. of Hungary, Transylvania, Austria, and Other Countries Neighbouring to Those 		
+10.2307_101569.xml	1670 	eng 	Some Inquiries Relating Particularly to the Bleeding of Walnuts; Suggested by Dr. Ezerel Tonge in a Letter of His to the Publisher, of March 22. 1670 		
+10.2307_101570.xml	1670 	eng 	An Extract of a Letter Written by Francis Willoughby Esquire to the Publisher, Containing Some Observations of His Made on Some Sycamore-Trees, the Black-Poplar, and the Walnut: As Also His Thoughts about the Dwarf-Oaks, and the Stellar Fish Described in Numb. 57 		
+10.2307_101571.xml	1670 	eng 	An Account of Some Books 		
+10.2307_101572.xml	1670 	eng 	Errata 		
+10.2307_101573.xml	1670 	eng 	The Answer of Monsieur Mariotte to Monsieur Pecquet, about the Opinion, That the Choroeides is the Principal Organ of Sight; Communicated to the Publisher from Paris, and Englished as Follows 		
+10.2307_101574.xml	1670 	eng 	An Accompt Given by Doctor Edward Brown, Concerning the Copper-Mine at Herrn-Ground in Hungary 		
+10.2307_101575.xml	1670 	eng 	An Accompt Concerning the Baths of Austria and Hungary; as Also Some Stone-Quarrries, Talcum Rocks, &c. in Those Parts: By the Same Hand 		
+10.2307_101576.xml	1670 	eng 	An Account of Some Books 		
+10.2307_101577.xml	1670 	eng 	Errata 		
+10.2307_101578.xml	1670 	eng 	A Letter of John Evelyn Esq;, to the Right Honourable the Lord Viscount Brouncker, Chancellor to Her Majesty and President to the R. Society & c. Concerning the Spanish Sembrador or New Engin for Ploughing, and Equal Sowing all Sorts of Grain, and Harrowing, at Once; by Which a Great Quantity of Seed-Corn is Saved, and a Rich Increase Yearly Gained, together with a Description of the Contrivance and Uses of This Engin, English't Out of Spanish, and Lately Presented to the R. Society 		
+10.2307_101579.xml	1670 	eng 	An Account of the Observation, Made by the Philosophical Academy at Paris, May 12 1667 about 9. of the Clock in the Morning, of an Halo or Circle about the Sun; together with a Discourse of M Hugens de Zulechem, Concerning the Cause of these Meteors, as Also That of Parelia's or Mock Sums. Englished Out of French by the Publisher, to Whom It Was Sent but Lately from the Worthy Author of the Said Discourse 		
+10.2307_101580.xml	1670 	eng 	A Discourse of Dr R. Wittie, Relating to the Notes of Dr Foot in Numb. 52. and to Those of Dr. Highmore in Numb. 56. of These Tracts; Concerning Mineral Waters, and Extracts Made Out of Them: Communicated to the Publisher, by Way of Letter 		
+10.2307_101581.xml	1670 	eng 	An Accompt of Some Books 		
+10.2307_101582.xml	1670 	eng 	Errata 		
+10.2307_101583.xml	1670 	eng 	A Letter of Dr. John Wallis to Robert Boyle Esq, Concerning the Said Doctor's Essay of Teaching a Person Dumb and Deaf to Speak, and to Understand a Language; together with the Success Thereof: Which Letter though Written Many Years Since, Was but Lately Obtain'd to be Inserted Here, It Being Esteemed Very Well Worth to be Preserv'd and Communicated for Publick Use 		
+10.2307_101584.xml	1670 	eng 	A Relation, Concerning the Sal-Gemme-Mines in Poland; Communicated by a Curious Gentleman of Germany, Who, Some Years since, Descended Himself into Those Mines, to the Depth of 200 Fathoms, and Was Led about in Them for the Space of Three Hours 		
+10.2307_101585.xml	1670 	eng 	The Way of Making Vinegar in France, Communicated to the Publisher, by an Ingenious Physitian of That Nation, Living at a Place, Where Much of It is Made 		
+10.2307_101586.xml	1670 	eng 	So Far the First Communication Concerning This Matter: In Which Occurring Several Particulars, Requiring Further Information, and they Being Sent to the Author, He Was Pleased to Return What Follows 		
+10.2307_101587.xml	1670 	eng 	An Account of Some Books 		
+10.2307_101588.xml	1670 	eng 	Errata 		
+10.2307_101589.xml	1670 	eng 	New Pneumatical Experiments about Respiration. These Experiments, Made by That Indefatigable Benefactour to Philosophy, the Honourable Robert Boyle in Order to Bring Some More Light to the Doctrine of Respiration, as Well as to Minister Occasion to Inquisitive Naturalists to Make Farther Researches into the Same, Were by Their Noble Author Communicated to the Publisher of these Papers; Who Esteem'd It More Convenient to Make Them a Part of these Tracts (They Taking up the Room but of a Few Sheets) than to Publish Them Any Other Way 		
+10.2307_101590.xml	1670 	eng 	An Accompt of Three Books 		
+10.2307_101591.xml	1670 	eng 	Errata 		
+10.2307_101592.xml	1670 	eng 	[New Pneumatical Experiments about Respiration. Continued] 		
+10.2307_101593.xml	1670 	eng 	An Accompt of Two Books 		
+10.2307_101594.xml	1670 	eng 	An Extract of a Letter, Written by Monsteur Hevelius to the Publisher, from Dantzick, Ju'y 5.1670. Containing Chiefly a Late Observation of the Variation of the Magnetick Needle; together with an Account of Some Other Curiosities in Those Parts:Englished, as Follows 		
+10.2307_101595.xml	1670 	eng 	A Letter of Mr. Joseph Childrey to the Right Reverend Seth Lord Bishop of Sarum, Containing Some Animaversions upon the Reverend Dr. John Wallis's Hypothesis about the Flux and Reflux of the Sea, Publish't No. 16. of These Tracts 		
+10.2307_101596.xml	1670 	eng 	Dr. Wallis's Answer to the Foregoing Animadversions, Directed in a Letter to the Publisher, March 19. 1662/70 		
+10.2307_101597.xml	1670 	eng 	An Accompt of Some Books 		
+10.2307_101598.xml	1670 	eng 	An Extract of a Letter, Written to the Publisher Out of France, Octob. 29. 1670. Intimating Two New Anatomical Discoveries 		
+10.2307_101599.xml	1670 	eng 	A Narrative of Divers Odd Effects of a Dreadful Thunder-Clap, at Stralfund in Pomerania, 19/29 June 1670;Taken Out of a Relation,There Printed by Authority in High Dutch 		
+10.2307_101600.xml	1670 	lat 	An Extract of a Letter of M Hevelius, Written to the Publisher from Dantzick, August 17/27 1670. Concerning a New Star, Lately Discover'd in the Constellation of the Swan, together with the Present Appearance of the Planet Saturn 		
+10.2307_101601.xml	1670 	eng 	An Accompt from Paris,in Two Letters to the Publisher, Dated July 5. and July 19. 1670. Concerning the Earlier Discovery of the Same New Star, Which is Described in the Precedent Letter 		
+10.2307_101602.xml	1670 	eng 	Some Communications, Confirming the Present Appearance of the Ring about Saturn, by M. Hugens de Zulechem and Mr. Hook 		
+10.2307_101603.xml	1670 	lat 	An Extract Out of a Lately Printed Epistolary Address, Made to the G. Duke of Toscany Touching Some Anatomical Engagements, of Laur. Bellini, Ord. Anat. Prof. at Pisa 		
+10.2307_101604.xml	1670 	eng 	A Narrative of a Monstrous Birth in Plymouth, Octob. 22. 1670; Together with the Anatomical Observations, Taken thereupon by William Durfton Doctor in Physick, and Communicated to Dr. Tim. Clerk 		
+10.2307_101605.xml	1670 	eng 	Observations on Insects, Lodging Themselves in Old Willows, Produced Before the Royal Society by Dr. Edmund King, July 14. 1670 		
+10.2307_101606.xml	1670 	eng 	Extracts of Two Letters, Written by Francis Willoughby Esquire, to the Publisher, from Astrop, August 19th and from Midleton, Sept. 2d. 1670 Containing His Observations on the Insects and Cartrages, Described in the Precedent Accompt 		
+10.2307_101607.xml	1670 	eng 	A Confirmation of What Was Formerly Printed in Numb. 50. of these Tracts, about the Manner of Spiders Projecting Their Threds; Communicated by Mr. John Wray, to the Publisher 		
+10.2307_101608.xml	1670 	eng 	An Accompt of Some Books 		
+10.2307_101609.xml	1670 	eng 	Errata 		
+10.2307_101610.xml	1670 	eng 	Extracts of Two Letters, Written by the Ingenious Mr. Adam Martindale to the Publisher from Rotherton in Cheshire, Novemb. 12. and Nov. 26. 1670. Concerning the Discovery of a Rock of Natural Salt in That Country 		
+10.2307_101611.xml	1670 	eng 	An Accompt Given by a Florentin Patrician, Call'd Jo. Battista Donius, Concerning a Way of Restoring the Salubrity of the Country about Rome: Extracted Out of the Ninth Italian Giornale de Letterati; And English't as Follows 		
+10.2307_101612.xml	1670 	eng 	An Experiment Concerning the Progress of Artificial Conglaciation, and the Remarkable Accidents, therein Observed by the Florentin Philosophers, and Publish't in Their Saggi di Naturali Esperienzep. 147; Now English't for the Further Tryal and Observation of the Curious Here 		
+10.2307_101613.xml	1670 	lat 	An Extract of a Letter of Monsieur Hevelius, Concerning His Observations of the Moon's Eclipse, on Septemb. 29. st.n. 1670. and the Conjunction of Venus and the Moon, on the 11th of Octob. st. n. 1670; as Also Some Remarks about the New Star Near the Beak of the Swan, and That Other in the Neck of the Whale: Together with Some Other Particulars of a Philos. Nature. Here Deliver'd in the Same Tongue, in Which It Was Written 		
+10.2307_101614.xml	1670 	eng 	Accompt of Three Books 		
+10.2307_101615.xml	1670 	eng 	A Note 		
+10.2307_101616.xml	1670 	eng 	Errata 		
+10.2307_101617.xml	1670 	eng 	An Accompt of Sundry Experiments Made and Communicated by That Learn'd Mathematician, Dr. Erasmus Bartholin, upon a Chrystal-Like Body, Sent to Him Out of Island 		
+10.2307_101618.xml	1670 	eng 	An Extract of a Letter from a Learned French Gentleman, Concerning a Way of Making Sea-Water Sweet 		
+10.2307_101619.xml	1670 	eng 	An Extract of Another Letter Written by the Same, Concerning Two Experiments Made for Finding Another Passage of the Urine, Besides the Known One; as Also Some Circumstances Relating to the Precedent Invention of Making Sea-Water Potable 		
+10.2307_101620.xml	1670 	eng 	A Relation of the Abundance of Wood, Found under Ground in Lincolnshire; Communicated by a Friend, Well Acquainted with That Country 		
+10.2307_101621.xml	1670 	eng 	A Description of the Stone- Quarry Near Maestrich; Communicated by an Observing Person, Conversant in That Country 		
+10.2307_101622.xml	1670 	eng 	An Account of Some Books 		
+10.2307_101623.xml	1670 	eng 	Errata 		
+10.2307_101624.xml	1670 	eng 	Extract of a Letter, Written by Mr. John Wray to the Publisher January 13. 1670. Concerning Some Un-Common Observations and Experiments Made with an Acid Juyce to be Found in Ants 		
+10.2307_101625.xml	1670 	eng 	Letter Written by Mr. Martin Lister to the Publisher, Jannuar. 25. 1670/71, Relating Partly to the Same Argument with That of the Former Letter, and Directing to Another Insect, That is Like to Yield an Acid Liquor; Partly to the Bleeding of the Sycamore 		
+10.2307_101626.xml	1670 	eng 	An Extract of Another Letter Written by the Same Gentleman, Mr. Wray, to the Publisher, of Febr. 8th. 1670/71 Containing Some Experiments about the Bleeding of the Sycamore, and Other Trees; As Also, a Considerable Note of Pliny about the Mulberry Tree 		
+10.2307_101627.xml	1670 	eng 	Some Observations Concerning the Variety of the Running of Sapin Trees, Compared with a Weather Glass; Made in April, 1670. together with Some Ways of Ordering Birch Water: By Dr. Ez. Tonge 		
+10.2307_101628.xml	1670 	eng 	An Accompt of Two Books 		
+10.2307_101629.xml	1670 	eng 	Errata 		
+10.2307_101630.xml	1670 	eng 	Back Matter 		
+10.2307_101631.xml	1675 	eng 	Front Matter 		
+10.2307_101632.xml	1675 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_101633.xml	1675 	eng 	Introduction to the Eleventh Year of These Tracts 		
+10.2307_101634.xml	1675 	eng 	A More Particular Account of the Last Eclipse of the Moon, as It Was Observed by the Parisian Astronomers, and Promised by Us in Our Former Numb.111. English't out of the French Journal des Scavanes 		
+10.2307_101635.xml	1675 	eng 	A Breviate of Monsieur Picarts Account of the Measure of the Earth 	Monsieur 	Picarts 
+10.2307_101636.xml	1675 	lat 	Extracts of Three Letters: The One of M. Hugens, about a New Invention of Very Exact and Portative Watches, Serving to Find the Longitudes Both at Sea and Land: The Second, of Dr. Swammerdam, Touching an Un-Usual Rupture of the Mesentery: The Third, Containing Some Observations of Mr. Lister about the Star-Stones; Together with Mr. Rays Annotations Thereon 	Christian Hugens Martin 	de Zulichem Lister 
+10.2307_101637.xml	1675 	eng 	An Accompt of Two Books 	Claude Anthonii 	Perrauit le Grand 
+10.2307_101638.xml	1675 	eng 	Errata 		
+10.2307_101639.xml	1675 	eng 	An Extract of a Letter of the Learned Dr. Gothofredus Guil.Leibnitz, Concerning the Principle of Exactness in the Portable Watches of His Invention 		
+10.2307_101640.xml	1675 	lat 	Observatio Eclipseos Lunae Totalis cum Occultationibus Quarundam Fixarum, Habita a Joh. Hevelio Anno 1675. Die, II Januarii St. n. Vesp 		
+10.2307_101641.xml	1675 	eng 	The Improvement of Cornwall by Sea Sand, Communicated by an Intelligent Gentleman Well Acquainted in Those Parts to Dr. Dan. Cox 		
+10.2307_101642.xml	1675 	eng 	[An Account of Some Books] 	Olaum Hugh 	Borrichium Platt 
+10.2307_101643.xml	1675 	eng 	Errata 		
+10.2307_101644.xml	1675 	eng 	Some Reflexions on the Transactions of April 1675; Sent to the Publisher in a Letter out of the Country 		
+10.2307_101645.xml	1675 	eng 	Extracts of Several Letters Sent to the Publisher from Edinburg, by the Learnd Mr. James Gregory, to Whom They Were Written by That Intelligent Knight Sir George Makenzy from Tarbut 	James George 	Gregory Makenzy 
+10.2307_101646.xml	1675 	eng 	Some Communications from Rome and Paris 		
+10.2307_101647.xml	1675 	eng 	A Conjecture Concerning the Bladders of Air That are Found in Fishes, Communicated by A. I; And Illustrated by an Experiment Suggested by the Honorable Robert Boyle 	Robert 	Boyle 
+10.2307_101648.xml	1675 	eng 	An Extract of a Letter, Written to the Publisher by Mr. J. L. about Poisonous Fish in One of the Bahama Islands 		
+10.2307_101649.xml	1675 	eng 	A Phytological Observation Concerning Orenges and Limons, Both Separately and in One Piece Produced on One and the Same Tree at Florence: Described by the Florentin Physitian Petrus Natus, and the Description Lately Communicated to the Publisher 	Petrus 	Natus 
+10.2307_101650.xml	1675 	eng 	An Accompt of Some Books 	Thomae 	Bartholini 
+10.2307_101651.xml	1675 	eng 	A Proposal to Noblemen, Gentlemen and Others, Who are Willing to Subscribe towards Dr. Morison's New Universal Herbal, Ordering Plants according to a New and True Method, Never Published Heretofore 		
+10.2307_101652.xml	1675 	eng 	Errata 		
+10.2307_101653.xml	1675 	eng 	A New Essay-Instrument Invented and Described by the Honourable Robert Boyle, Together with the Uses Thereof 	Robert 	Boyle 
+10.2307_101654.xml	1675 	eng 	A Letter Written to the Publisher by the Learned Mr. Ray, Containing Some Considerations on the Conjecture in Numb. 114. of These Tracts, about the Swiming Bladders in Fishes 	John 	Ray 
+10.2307_101655.xml	1675 	eng 	Errata 		
+10.2307_101656.xml	1675 	eng 	An Extract of a Letter, Written by a Friend to the Publisher out of the Country, July 24. 1675; Relating to the Contents of the Tract Next Foregoing 		
+10.2307_101657.xml	1675 	eng 	A Way of Making All Sorts of Plants, Trees, Fruits, Flowers, and Legums, Grow to an Extraordinary Bigness, Communicated in the Journal des Scavans, as It was Taken Out of the Small Tract, Entituled, Instruction Facile Pour Connoitre Toutes Fortes d'Orangers & Citroniers: Here Inserted for Experiment 		
+10.2307_101658.xml	1675 	eng 	Advertisements, Occasioned by the Remarks Printed in Numb. 114, upon Frosts in Some Parts of Scotland, Differing in Their Anniversary Seasons and Force from Our Ordinary Frosts in England: Of Black Winds and Tempests: Of the Warm or Fertilizing Temperature and Steams of the Surface of the Earth, Stones, Rocks, Springs, Waters, (Some in Some Places, More Than Other in Other Places;) Of Petrifying and Metallizing Waters: With Some Hints for the Horti-Culture of Scotland: By the Reverend and Learned Dr. J. Beal, F.R.S.; Who by Way of Letter Imparted Them to the Publisher 	J. 	Beal 
+10.2307_101659.xml	1675 	eng 	Mr. Flamsteads Letter of July 24. 1675. to the Publisher, Relating to Another, Printed in Num. 110. of These Tracts, Concerning M. Horroxes Lunar Systeme 	John 	Flamstead 
+10.2307_101660.xml	1675 	lat 	Lunae Totaliter Deficientis Observationes, Londini in Arce Londlnensi Habitae, Idque in Aedibus & cum Instrumentis Jonae More Equ. Aurati, a Johanne Flamsteadio, Astr. Regio, Nocte Sequente d. Junii 26. 1675. St. vet. 	Johanne 	Flamsteadio 
+10.2307_101661.xml	1675 	eng 	An Accompt of a Book 	Charles 	Cotton 
+10.2307_101662.xml	1675 	eng 	A List of Some Philosophical and Other Curious Books, Desired by the Printer of These Tracts, (by Whom They are to be Had,) to be Mentioned Here 		
+10.2307_101663.xml	1675 	eng 	Microscopical Observations of Mr. Leewenhoeck, Concerning the Optic Nerve, Communicated to the Publisher in Dutch, and by Him Made English 		
+10.2307_101664.xml	1675 	eng 	Other Microscopical Observations, Made by the Same, about the Texture of the Blood, the Sap of Some Plants, the Figure of Sugar and Salt, and the Probable Cause of the Difference of Their Tasts 		
+10.2307_101665.xml	1675 	lat 	Some Optical Assertions Concerning the Rain-Bow, Transmitted by the Learned Franciscus Linus from Liege, Where They were Publickly Discussed in August Last. Deliver'd Here in the Same Language, Wherein They Were Communicated 	Franciscus 	Linus 
+10.2307_101666.xml	1675 	lat 	Observationes Eclipsis Lunaris, Habitae Parisiis; Comparandae cum iis, Quae Peractae Fuerunt Londini d. Junii 26. 1675. St. Veteri, Traditaeque in His Actis Phil. Num. 116. p. 371 		
+10.2307_101667.xml	1675 	lat 	A Letter Written to the Publisher by the Excellent Cassini, Relating to the Foregoing Observations 		
+10.2307_101668.xml	1675 	eng 	An Extract of a Letter of July 28, 1675. by Mr. Lister from York to the Publisher; Containing Some Observations about Damps, together with Some Relations Concerning Odd Worms Vomited by Children, &c 		
+10.2307_101669.xml	1675 	eng 	Some Observations Made in Scotland by That Ingenious Knight Sir George Makenzie, Sent in a Letter to Mr. James Gregory, and by Him Communicated to the Publisher 	George 	Makenzie 
+10.2307_101670.xml	1675 	eng 	An Extract of a Letter of Mr. Listers, Containing Some Observations Made at the Barbado's 		
+10.2307_101671.xml	1675 	eng 	An Account of Some Books 	Marcelli Joelem W. 	Malpighii Langelotum Sympson 
+10.2307_101672.xml	1675 	eng 	Errata 		
+10.2307_101673.xml	1675 	eng 	A Summary Relation of What Hath been Hitherto Discovered in the Matter of the North-East Passage; Communicated by a Good Hand 		
+10.2307_101674.xml	1675 	lat 	An Extract of a Letter to the Publisher from a Spanish Professour of the Mathematicks, Proposing a New Place for the First Meridian, and Pretending to Evince the Equality of all Natural Daies, as Also to Shew a Way of Knowing the True Place of the Moon 		
+10.2307_101675.xml	1675 	eng 	An Account of Two Books 	Jacobi Robert 	Barneri Hook 
+10.2307_101676.xml	1675 	eng 	Some Experiments Made in the Air-Pump by Monsieur Papin, Directed by Monsieur Hugens, (as Appears in the Discour se Printed at Paris, 1674) 	Monsieur Monsieur 	Papin Hugens 
+10.2307_101677.xml	1675 	eng 	A Particular Account, Given by an Anonymous French Author in His Book of the Origin of Fountains, Printed 1674 at Paris; To Shew, That the Rain and Snow-Waters are Sufficient to Make Fountains and Rivers Run Perpetually 		
+10.2307_101678.xml	1675 	eng 	A Letter of the Ingenious Mr. Jessop of Broomhal in York-Shire, Containing a Further Account of Damps in Mines, Promised in Numb.117. of These Tracts 		
+10.2307_101679.xml	1675 	eng 	An Account of Some Books 	J. Lucas Jacobson 	Evelyn Debes 
+10.2307_101680.xml	1675 	eng 	Errata 		
+10.2307_101681.xml	1675 	eng 	New Experiments about the Weaken'd Spring and Some Un-Observ'd Effects of the Air: Made and Communicated by the Honourable Robert Boyle Esq 	Robert 	Boyle 
+10.2307_101682.xml	1675 	eng 	Some Experiments Made in the Air Pump upon Plants, Together with a Way of Taking Exhausted Receivers Away from off the Said Exgin: Tryed by the Same Persons Mention'd in Numb. 119. viz. Monsieur Hugens and M. Papin 	Monsieur Monsieur 	Papin Hugens 
+10.2307_101683.xml	1675 	eng 	An Account of Some Books 	Erancisci Nehemiah N. 	Willughbeii Grew Stevenson 
+10.2307_101684.xml	1675 	eng 	Note 		
+10.2307_101685.xml	1675 	eng 	Errata 		
+10.2307_101686.xml	1675 	eng 	A Continuation of the Experiments Made by Monsieur Hugens, and M. Papin, in the Air Pump; Which are about the Preservation of Bodies 	Monsieur M. 	Hugens Papin 
+10.2307_101687.xml	1675 	lat 	A Letter of Mr. Flamsteed, Professor Regius of Asironomy in London, to Sir Jonas Moor Knight, etc. Containing His Observations of the Late Lunar Eclipse, on Decemb. 21. 1675 		
+10.2307_101688.xml	1675 	eng 	A Letter of Mr. Franc. Linus, Written to the Publisher from Liege the 25th of Febr. 1675. st.n. being a Reply to the Letter Printed in Numb. 110. by Way of Answer to a Former Letter of the Same Mr. Linus, Concerning Mr. Isaac Newton's Theory of Light and Colours 		
+10.2307_101689.xml	1675 	eng 	Mr. Isaac Newton's Considerations on the Former Reply; together with Further Directions, How to Make the Experiments Controverted Aright: Written to the Publisher from Cambridge, Novemb. 13. 1675 	Isaac 	Newton 
+10.2307_101690.xml	1675 	eng 	An Accompt of Some Books 	Johannes Christophorus Roger Charles 	Sturinius Cook Goodall 
+10.2307_101691.xml	1675 	eng 	A List of Some Philosophical and Other Curious Books, Desired by the Printer of These Tracts (by Whom They are Vendible) to be Mentioned Here 		
+10.2307_101692.xml	1675 	lat 	Of the Incalescence of Quicksilver with Gold, Generously Imparted by B. R. 		
+10.2307_101693.xml	1675 	eng 	Some Observations, Sent by an Anonymous to the Publisher, on Several Passages in the Two Last Months Transactions, Relating to Some, Till Now Un-Observed, Qualities of the Air; To the Mixing and Fermenting of Liquors in Vacuo; To the History of Birds; The Anatomy of the Trunks of Vegetables; Baroscopes, etc. 		
+10.2307_101694.xml	1675 	eng 	Some Experiments Touching Animals, Made in the Air-Pump by the Persons Formerly Mentioned, viz. Monsieur Hugens and M. Papin 	Monsieur M. 	Hugens Papin 
+10.2307_101695.xml	1675 	eng 	An Account of Two Books 	M. Francois Henry 	Blondel More 
+10.2307_101696.xml	1675 	eng 	Errata 		
+10.2307_101697.xml	1675 	eng 	Back Matter 		
+10.2307_101698.xml	1676 	eng 	Front Matter 		
+10.2307_101699.xml	1676 	eng 	Epistle Dedicatory 	Henry 	Oldenburg 
+10.2307_101700.xml	1676 	eng 	The Preface 		
+10.2307_101701.xml	1676 	eng 	A Particular Answer of Mr. Isaak Newton to Mr. Linus his Letter, Printed in Numb 121. p.499. about an Experiment Relating to the New Doctrine of Light and Colours: This Answer Sent from Cambridge in a Letter to the Publisher Febr. 29. 1675/6 	Isaak 	Newton 
+10.2307_101702.xml	1676 	lat 	Extracts of Three Letters of Signor Cassini, Containing his Sentiment of Mr. Flamsted s Account of the Last Eclipse of the Moon; as Also His Own Observations of That Phaenomenon; and Likewise An Observed Occultation of a Fixt Star by the Moon 	Signor 	Cassini 
+10.2307_101703.xml	1676 	lat 	Mr. Flamsteeds Answer to the Former Three Letters, Containing Also Some Celestial Observations 		
+10.2307_101704.xml	1676 	eng 	An Account of Books 	Thoma J. B. 	Sydenham Du Hamel 
+10.2307_101705.xml	1676 	eng 	Mr. Francis Vernons Letter, Written to the Publisher Januar. 10th. 1675/6 giving a Short Account of Some of his Observations in His Travels from Venice Through Istria, Dalmatia, Greece, and the Archipelago, to Smyrna, Where This Letter Was Written 	Francis 	Vernons 
+10.2307_101706.xml	1676 	eng 	Advertisements on the Vinetum Britannicum Mentioned in the Last Foregoing Tract, Sent to the Publisher by the Reverend Dr. J. Beal Rector of Yeovil in Somersetshire and One of His Majesties Chaplains 	J. 	Beal 
+10.2307_101707.xml	1676 	lat 	Eclipsis Lunaris Anno 1676, Die I. Januarii Mane Observata Gedani 	Johanne 	Hevelio 
+10.2307_101708.xml	1676 	eng 	An Account of Some Books 	Aylett 	Sammes 
+10.2307_101709.xml	1676 	eng 	Errata 		
+10.2307_101710.xml	1676 	eng 	Two Instances of Something Remarkable in Shining Flesh, from Dr. J. Beal of Yeavel in Somersetshire, in a Letter to the Publisher 	J. 	Beal 
+10.2307_101711.xml	1676 	eng 	A Discourse Concerning the Spiral, Instead of the Supposed Annular, Structure of the Fibres of the Intestins; Discover'd and Shewn by the Learn'd and Inquisitive Dr. William Cole to the R.Society 	William 	Cole 
+10.2307_101712.xml	1676 	eng 	Monsieur Bullialdus and M. Richelts Account of the Last Lunar Eclipse of Januar, I. 1676. St. Novoi Whereby It Appears That the Rudolphin Tables or Hecker's Calculos Made thereon, do Considerably Differ from the Heavens Both for Duration and Magnitude, but the Philolaique Tables, Less 	Monsieur M. 	Bullialdus Richelts 
+10.2307_101713.xml	1676 	eng 	An Accompt of Some Books 	Sieur Herman M. Walter 	du Clos Busschos de Blegny Harrys 
+10.2307_101714.xml	1676 	eng 	Errata 		
+10.2307_101715.xml	1676 	eng 	An Account of Virginia, Its Scituation, Temperature, Productions, Inhabitants, and their Manner of Planting and Ordering Tobacco, etc. Communicated by Mr. Thomas Glover, An Ingenious Chirurgion that Hath Lived Some Years in That Country 	Thomas 	Glover 
+10.2307_101716.xml	1676 	eng 	Advertisement Concerning the Quantity of a Degree of a Great Circle, in English Measures 		
+10.2307_101717.xml	1676 	eng 	Observations Made of the Late Solar Eclipse on ihe First of June, 1676. St. V. 		
+10.2307_101718.xml	1676 	eng 	An Account of Some Books 	M. 	Cooke 
+10.2307_101719.xml	1676 	eng 	Errata 		
+10.2307_101720.xml	1676 	eng 	An Extract of a Letter etc. from Dublin May the 10th, 1676 		
+10.2307_101721.xml	1676 	eng 	Extract of a Letter Written to the Publisher by Mr. Leewenhoeck from Delst, April 21. 1676; Concerning the Texture of Trees, and Some Remarkable Discovery in Wine; together with Some Notes Thereon 		
+10.2307_101722.xml	1676 	lat 	Eclipsis Solis Anno 1675, Die 23 Junii Mane st.n. Observ. Gedani 		
+10.2307_101723.xml	1676 	eng 	Mr. Flamsteads, Mr. Townlyes, Mr. Haltons, Signor Cassini's and Monsieur Hevelius's, Observations of the Late Eclipse of the Sun 	Signor Monsieur 	Cassini Hevelius 
+10.2307_101724.xml	1676 	lat 	An Extract of a Letter of the Learned Dr. Matthias Mangold of Basel, Concerning a Mathematico Historical Table, Designed in That University; together with a Description of the Import of the Same 	Matthias P. 	Mangold Megerlin 
+10.2307_101725.xml	1676 	eng 	An Account of Some Books 	Robert 	Boyle 
+10.2307_101726.xml	1676 	eng 	Errata 		
+10.2307_101727.xml	1676 	eng 	A Description of an Hydraulique Engin, Taken out of the Register of the Royal Academy of the Sciences of Paris, and Inserted in the Journal des Scavans, 1675: Englished by the Publisher, for the Better Examination of Those That are Skilfull in Such Engins Here in England. See Tab. I. Fig. I 		
+10.2307_101728.xml	1676 	eng 	An Extract of a Letter Written by Signor Cassini to the Author of the Journal des Scavans, Containing Some Advertisements to Astronomers about the Configurations, by Him Given of the Satellites of Jupiter, for the Years 1676, and 1677, for the Verification of Their Hypotheses 	Signor 	Cassini 
+10.2307_101729.xml	1676 	lat 	Methodus Directa & Geometrica, Cujus Ope Investigantur Aphelia, Eccentricitates, Proportionesque Orbium Planetarum Primariorum, Absque Supposita Aequalitate Anguli Motus, ad Alterum Ellipsews Focum, ab Astronomis Hactenus Usurpati. Anth. Edmundo Hally Jun. e Collegio Reginae Oxon 	Edmundo 	Hally 
+10.2307_101730.xml	1676 	eng 	An Extract of an Account Given by Mr. Flamstead of His Own and Mr. Edmund Halleys Observations Concerning the Spots in the Sun, Appearing in July and August 1676 	Edmund 	Halleys 
+10.2307_101731.xml	1676 	lat 	An Extract of Signor Cassini's Letter Concerning a Spot Lately Seen in the Sun; Together with a Remarkable Observation of Saturn, Made by the Same 	Signor 	Cassini 
+10.2307_101732.xml	1676 	eng 	An Intimation Given in the Journal des Scavans,of a Sure and Easie Way to Make All Sorts of Great Telescopical Glasses, Together with a Generous Offer of Furnishing Industrious Astronomers with Them 		
+10.2307_101733.xml	1676 	eng 	A Letter from Liege concerning Mr. Newton's Experiment of the Coloured Spectrum; together with Some Exceptions against His Theory of Light and Colours 		
+10.2307_101734.xml	1676 	eng 	Mr. Newton's Answer to the Precedent Letter, Sent to the Publisher 		
+10.2307_101735.xml	1676 	eng 	An Account of Two Books 	Franc Moyse 	Glissonio Charas 
+10.2307_101736.xml	1676 	eng 	Advertisement 		
+10.2307_101737.xml	1676 	eng 	Errata 		
+10.2307_101738.xml	1676 	eng 	Observations Concerning Some of the Most Considerable Parts of Asia 		
+10.2307_101739.xml	1676 	eng 	A Description of Mr. John Coniers, Apothecary and Citizen, His Hygroscope, in Two Several Contrivances; together with Some Observations Made Thereon: Communicated in a Letter to the Publisher, Octob. 23. 1676 	John 	Coniers 
+10.2307_101740.xml	1676 	lat 	The Occultation of the Planet Mars by the Moon, Observed by Mons. Hevelius, Mr. Flamstead and Mr. Hally 	Mons 	Hevelius 
+10.2307_101741.xml	1676 	eng 	Two Letters Written by Mr. John Beaumont Junior of Stony-Easton in Somerset-Shire, Concerning Rock-Plants and Their Growth 	John 	Beaumont 
+10.2307_101742.xml	1676 	eng 	An Account of Some Books 	Guil 	Briggs 
+10.2307_101743.xml	1676 	eng 	Errata 		
+10.2307_101744.xml	1676 	eng 	More Observations of Monsieur Taverniers Voyages; Promised in the Next Foregoing Tract 	Monsieur 	Taverniers 
+10.2307_101745.xml	1676 	eng 	An Extract of Some Observations, to be Met with in the Journal des Scavans; Concerning the Lake of Mexico; and a Strange Sort of Rey, Growing Sometimes in Certain Parts of France 		
+10.2307_101746.xml	1676 	eng 	A Letter Written by D. Lucas Hodgson, Physician at Newcastle, Containing Some Observations Made by Him of a Subterraneal Fire in a Coal-Mine Near That City 	D. Lucas 	Hodgson 
+10.2307_101747.xml	1676 	eng 	An Account of Some Books 	Roberti Caspari Henry N. 	Boyle Bartholini Bond Stephenson 
+10.2307_101748.xml	1676 	eng 	Errata 		
+10.2307_101749.xml	1676 	eng 	New Experiments Made and Communicated by the Honourable Robert Boyle Esquire; about the Superficial Figures of Fluids, Especially of Liquors Contiguous to Other Liquors 	Robert 	Boyle 
+10.2307_101750.xml	1676 	lat 	Extract of a Letter Written to the Publisher, Concerning a Factitious Stony Matter or Paste, Shining in the Dark Like a Glowing Coal, after It Bath Been a Little While Exposed to the Day- or Candle-Light 		
+10.2307_101751.xml	1676 	eng 	An Account of Three Books 	Johanne S. Andrew 	de Raei Menard Yarranton 
+10.2307_101752.xml	1676 	eng 	A Continuation of Mr. Boyle' s Experiments Published in the Last Transactions; for Which There Was No Room There 		
+10.2307_101753.xml	1676 	eng 	An Account of Two Books 	Robert 	Cary 
+10.2307_101754.xml	1676 	eng 	Back Matter 		
+10.2307_101755.xml	1677 	eng 	Front Matter 		
+10.2307_101756.xml	1677 	eng 	A Preface to March 25. 1677 		
+10.2307_101757.xml	1677 	eng 	Some Agrestic Observations and Advertisements, from Dr. John Beale Communicated to the Publisher 	John 	Beale 
+10.2307_101758.xml	1677 	eng 	Observations, Communicated to the Publisher by Mr. Antony van Leewenhoeck, in a Dutch Letter of the 9th of Octob. 1676. Here English'd: concerning Little Animals by Him Observed in Rain-Well-Sea. and Snow Water; as Also in Water Wherein Pepper Had Lain Infused 	Antony 	van Leewenhoeck 
+10.2307_101759.xml	1677 	eng 	Some New Observations Made by Sig. Cassini and Deliver'd in the Journal Des Scavans., Concerning the Two Planets about Saturn, Formerly Discover'd by the Same, as Appears in N. 92. of the se Tracts 		
+10.2307_101760.xml	1677 	eng 	An Account of Some Books 	Johannis Nathan 	Raii Henshaw 
+10.2307_101761.xml	1677 	eng 	Dr. Wallis's Letter to the Publisher, Concerning a New Musical Discovery; Written from Oxford, March 14. 1676/7 		
+10.2307_101762.xml	1677 	eng 	An Improvement of the Bononian Stone, Shining in the Dark 		
+10.2307_101763.xml	1677 	eng 	An Extract of a Letter, Written from Aberdeen Febr. 17.1676/7 Concerning a Man of a Strange Imitating Nature, as Also of Several Human Calculus's of an Unusual Bigness 		
+10.2307_101764.xml	1677 	eng 	Monsieur Leewenhoecks Letter to the Publisher, Wherein Some Account is Given of the Manner of His Observing So Great a Number of Little Animals in Divers Sorts of Water, as was Deliver'd in the Next Foregoing Tract: English'd out of Dutch 	Monsieur 	Leewenhoecks 
+10.2307_101765.xml	1677 	eng 	The Continuation of the Hortulan and Rural Advertisements, Promised in the Next Foregoing Tract; Communicated by the Same Hand, Dr. John Beale 	John 	Beale 
+10.2307_101766.xml	1677 	lat 	A Letter of Monsieur Hevelius; Giving an Account of His Observations, Made for Several Years Together Concerning Three New Stars, One in the Whale's Neck, the Other Two Near the Head and in the Breast of the Swan 	Monsieur 	Hevelius 
+10.2307_101767.xml	1677 	eng 	An Account of Two Books 	Monsieur Wolfgango Ernesto 	Mariotte Heidel 
+10.2307_101768.xml	1677 	eng 	Errata 		
+10.2307_101769.xml	1677 	eng 	An Extract of Two Letters, Written by Dr. Wallis to the Publisher the 20th and 30th of January Last, Concerning a Considerable Meteor Seen in Many Distant Places of England at the Same Time 	John 	Wallis 
+10.2307_101770.xml	1677 	eng 	An Account of Four Sorts of Factitious Shining Substances, Communicated to the Publisher from Very Good Hands, Both in Printed Papers and in Letters Not Printed 		
+10.2307_101771.xml	1677 	lat 	Signor Cassini's Letter, Giving Some Account of the Observations Made at Paris of the Late Comet 	Signor 	Cassini 
+10.2307_101772.xml	1677 	lat 	Monsieur Hevelius's Letter Written to the Publisher, Containing His Observations of the Late Comet, Seen by Him the 27, 29, and 30 April, and the First of May, 1677. (St. Nov.) in Dantzick 	Monsieur 	Hevelius 
+10.2307_101773.xml	1677 	lat 	Another Letter from the Same Hand, upon the Same Subject with the Former 	Monsieur 	Hevelius 
+10.2307_101774.xml	1677 	eng 	Mr. Flamstead's Account of His Observations of the Late Comet, Sent in a Letter to the Publisher, Greenwich, May 18. 1677 		
+10.2307_101775.xml	1677 	eng 	An Account of Some Books 	Robert Sieur W. Christopher 	Plot Daffie Simpson Glaser 
+10.2307_101776.xml	1677 	eng 	Advertisement 		
+10.2307_101777.xml	1677 	eng 	A Letter of Mr. John Conyers, Citizen of London; the Author of the Hygroscope Described in Numb. 129; in Which Letter is Contained a Draught and Description of a Very Useful and Cheap Pump, Contrived by the said Mr. Conyers; a Trial of Which Was Also Made at the Repairing of the New Canal of Fleet-River in London, and Elsewhere 	John 	Conyers 
+10.2307_101778.xml	1677 	eng 	Some Considerations of an Observing Person in the Country upon Numb. 133. of These Tracts, sent in a Letter to the Publisher of May 2, 1677 		
+10.2307_101779.xml	1677 	eng 	A Demonstration Concerning the Motion of Light, Communicated from Paris, in the Journal des Scavans, and here Made English 		
+10.2307_101780.xml	1677 	eng 	A Relation of Some Strange Phaenomena, Accompanied with Mischievous Effects in a Cole Work in Flint Shire; Sent March 31. 1677. to the Reverend and Eminently Learned Dr. Bathurst, Dean of Bath and Wells, by an Ingenious Gentleman, Mr. Roger Moslyn, of the Inner Temple, Who, at the Said Doctor's Request, Obtained It from His Fathers Steward and Overseer of His Cole-Works, Who was upon the Place when the Thing Was Done; the Same Mr. Moslyn Being Also Assured of It from His Father, Sr. Roger Moslyn, Lord of the Mannor, and Several Others, Who Were Eye Witnesses 	Roger 	Moslyn 
+10.2307_101781.xml	1677 	eng 	Mr. Leewenhoecks Letter Written to the Publisher from Delff the 14th of May 1677, Concerning the Observations by him Made of the Carneous Fibres of a Muscle, and the Cortical and Medullar Part of the Brain; as Also of Moxa and Cotton 		
+10.2307_101782.xml	1677 	eng 	The Description of a Celestial Globe, Artificially Made, Shewing the Apparent Motions, from East to West, and from West to East, of the Sun, Moon, and Fixed Stars: Made by Monsieur Didier L'Alleman, Master Watchmaker at Paris, and Communicated to the Publisher in French, and here by the Same Made English 	Didier 	L'Alleman 
+10.2307_101783.xml	1677 	eng 	A Description of the Diamond-Mines, as It was Presented by the Right Honourable, the Earl Marshal of England, to the R. Society 	Earl 	Marshal 
+10.2307_101784.xml	1677 	eng 	An Account of Some Books 	Matthew Valentino Andraea J. D. 	Hale Willio Mullero London 
+10.2307_101785.xml	1677 	eng 	Errata 		
+10.2307_101786.xml	1677 	eng 	The Manner of Hatching Chicken at Cairo, Observed by Mr. John Graves, Sometime Professor of Astronomy at Oxford; and Communicated by Sr. George Ent, Late President of the College of Physitians, London 	John George 	Graves Ent 
+10.2307_101787.xml	1677 	eng 	A Relation Concerning Barnacles, by Sr. Robert Moray, Lately one of His Majesties Council for the Kingdom of Scotland 	Robert 	Moray 
+10.2307_101788.xml	1677 	eng 	A Description of the Island Hirta; Communicated Also by Sr. Robert Moray 	Robert 	Moray 
+10.2307_101789.xml	1677 	eng 	Some Observations of a Cameleon, Made by Dr. Jonathan Goddard, Late Professor of Physick at Gresham-College, London 	Jonathan 	Goddard 
+10.2307_101790.xml	1677 	eng 	An Account of Iron-Works in the Forest of Dean, Communicated by Henry Powle, Esquire 	Henry 	Powle 
+10.2307_101791.xml	1677 	eng 	A Relation of the Making of Ceruss, by Sir Philiberto Vernatti 	Philiberto 	Vernatti 
+10.2307_101792.xml	1677 	eng 	An Account of Two Books 	R. John Baptista 	Cudworth Tavernier 
+10.2307_101793.xml	1677 	eng 	An Account of the Culture, or Planting and Ordering of Saffron; by the Honourable Charles Howard, Esquire 	Charles 	Howard 
+10.2307_101794.xml	1677 	eng 	A Relation of the Tinn-Mines, and Working of Tinn in the County of Cornwal; by Dr. Christopher Merret 	Christopher 	Merret 
+10.2307_101795.xml	1677 	eng 	Experiments of Refining Gold with Antimony; Made by Dr. Jonathan Goddard 	Jonathan 	Goddard 
+10.2307_101796.xml	1677 	eng 	A Relation of a Monstrous Birth, Made by Dr. S. Morris of Petworth in Suffex, from His Own Observation: And by Him Sent to Dr. Charles Goodall of London; Both of the Colledge of Physicians, London 	S. 	Morris 
+10.2307_101797.xml	1677 	eng 	An Account of Three Books 	Moses Thomas Joseph 	Charras Hobbs Moxon 
+10.2307_101798.xml	1677 	lat 	Societaeis Regiae Anglicae Illustrissimis, Celeberrimis Atque Sapientissimis Viris Ismael Bullialdus, S.P.D. 	Ismael 	Bullialdus 
+10.2307_101799.xml	1677 	lat 	Extract of a Letter Sent from Genoua to Sign. Sarotti, the Venetian Resident Here, and by Him Communicated to the Honourable Mr. Boyle 		
+10.2307_101800.xml	1677 	lat 	Anatomical Observations of the Structure of the Nose: Made by Mons. Du Vernay. Taken out of the Journal Des Scavans 		
+10.2307_101801.xml	1677 	lat 	Observations of Some Animals, and of a Strange Plant, Made in a Voyage into the Kingdom of Congo: by Michael Angelo De Guattini and Dionysius of Placenza, Missionaries Thither. Extracted out of the Journal des Scavans 	Michael Angelo 	De Guattini 
+10.2307_101802.xml	1677 	lat 	Extract of a Letter from Mr. Edmund Pitt, Alderman of Worcester, a Very Knowing Botanist; Concerning the Sorbus Pyriformis 	Edmund 	Pitt 
+10.2307_101803.xml	1677 	lat 	A Relation of a Child which Remained Twenty Six Years in the Mothers Belly. Taken out of the Journal Des Scavans; Being the Extract of a Letter Written from Tolouse 22. June to the Author of That Journal, by Monsieur Bayle, M.D. 	Monsieur 	Bayle 
+10.2307_101804.xml	1677 	eng 	An Account of Some Books 	Johannis Martini Robert 	Wallisii Lister Hooke 
+10.2307_101805.xml	1677 	lat 	An Advertisement of the Monthly Continuation of the Mechanick Exercises; by Mr. Joseph Moxon 	Joseph 	Moxon 
+10.2307_101806.xml	1677 	eng 	Anatomical Observations in the Body of a Woman about 50 Years Old, who Died Hydropical in her Left Testicle, Decemb, 30 1677. Made and Communicated by the Learned Dr. Henry Sampson. Extracted out of His Latine Copy, by the Author of These Transactions 	Henry 	Sampson 
+10.2307_101807.xml	1677 	eng 	Microscopical Observations of the Structure of Teeth and other Bones: Made and Communicated, in a Letter by Mr. Anthony Leeuwenhoeck 	Anthony 	Leeuwenhoeck 
+10.2307_101808.xml	1677 	eng 	Of The Grain of Ivory 		
+10.2307_101809.xml	1677 	eng 	Microscopical Observations of the Structure of Hair: Made Also and Communicated by the above Said Mr. Anthony Leeuwenhoeck 	Anthony 	Leeuwenhoeck 
+10.2307_101810.xml	1677 	eng 	Extract of a Letter Written by Signior Borelli, about the Price of His Telescopes: Communicated to Sir Jonas Moore 	Signior 	Borelli 
+10.2307_101811.xml	1677 	eng 	A New Invention of a Clock Ascendent on a Plain Inclin'd: By Mr. De Gennes, an Officer Belonging to the Sea. Extracted out of the Journal Des Scavans 	De 	Gennes 
+10.2307_101812.xml	1677 	eng 	A New Engin to Make Linen-Cloth Without the Help of an Artificer, Presented to the Royal Academy, by Monsieur De Gennes, an Officer Belonging to the Sea. Extracted out of the Journal de Scavans 	Monsieur 	de Gennes 
+10.2307_101813.xml	1677 	eng 	A Relation of a Worm Voided by Urine; Communicated by Mr. Ent: to Whom It Was Sent by Mr. Matthew Milford 	Matthew 	Milford 
+10.2307_101814.xml	1677 	eng 	An Essay Tending to Make a Probable Conjecture of Tempers and Dispofitions by the Modulations of the Voice in Ordinary Discourse. Communicated Also by the Forementioned Person 		
+10.2307_101815.xml	1677 	eng 	An Account of Some Books Extracted out of the Journal des Scavans 	Ferdinando Carolo M. 	Cospi du Fresue Duncan 
+10.2307_101816.xml	1677 	lat 	Clarissimo Viro Domino Nehemiae Greuio Regiae Societatis a Secretis Jo. Dominicus Cassinius S. P. D. 		
+10.2307_101817.xml	1677 	lat 	Monsieur Gallet's Observation of the Solar Eclips on the 11th of June, 1676 	Monsieur 	Gallet 
+10.2307_101818.xml	1677 	lat 	Extract of a Letter from Mr. Buttersield Mathematique Instrument-Maker to the French King, about the Making of Microscopes with Very Small and Single Glasses: and of Some Other Instruments 		
+10.2307_101819.xml	1677 	lat 	Extract of a Letter from Mr. John Conyers, of His Improvement of Sir Samuel Moreland's Speaking Trumpet,etc. 	John 	Conyers 
+10.2307_101820.xml	1677 	eng 	An Account of Two Books 	Thomas Edmundo 	Trapham Halleio 
+10.2307_101821.xml	1677 	eng 	Anatomical Observations of an Abscess in the Liver; a Great Number of Stones in the Gall-Bag and Bilious Vessels; an Un-Usual Conformation of the Emulgents and Pelvis; A Strange Conjunction of Both Kidneys; and Great Dilatation of the Vena Cava, Communicated by Edw. Tyson A. M. and M.S. Oxon 		
+10.2307_101822.xml	1677 	eng 	An Anatomical Observation of Four Ureters in an Infant, and Some Remarks on the Gladulae Renales, Made by the Same Ingenious Person 		
+10.2307_101823.xml	1677 	lat 	Observationes D. Anthonii Lewenhoeck, De Natis E Semine Genitali Animalculis 	D. Anthonii 	Lewenhoeck 
+10.2307_101824.xml	1677 	eng 	The Art of Refining, Communicated by Dr. Christopher Merrit 	Christopher 	Merrit 
+10.2307_101825.xml	1677 	eng 	An Account of the English Alum-Works, Communicated by Daniel Colwall Esquire 	Daniel 	Colwall 
+10.2307_101826.xml	1677 	eng 	An Account of the Way of Making English Green-Copperas, Communicated by the Same 	Daniel 	Colwall 
+10.2307_101827.xml	1677 	eng 	An Account of the Salt Waters of Droytwich in Worcestershire; Sent by Dr. William Cole from Dr. Tho. Rastell, who Hath Lived Many Years upon the Place, and Hath There Several Phats of His Own 	William 	Cole 
+10.2307_101828.xml	1677 	eng 	The Description, Culture, and Use of Maiz. Communicated by Mr. Winthorp 		
+10.2307_101829.xml	1677 	eng 	An Account of the Manner of Making Malt in Scotland; by Sir Robert Moray 	Robert 	Moray 
+10.2307_101830.xml	1677 	eng 	An Account of a Book 	Georgio 	Entio 
